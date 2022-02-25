@@ -853,8 +853,9 @@ Max stack: 5
 
 <text>
 	<id>120</id>
-	<name>+5 Heat and slows hunger and thrist for 30 seonds upon use. 
+	<name>+5 Heat and slows hunger and thrist for 30 seconds upon use. 
 +5 Karma when gifted to other survivors.
+Max stack: 10
 </name>
 </text>
 
@@ -1768,7 +1769,7 @@ Can be torn into Rags.
 <!-- Shirt -->
 <text>
 	<id>502</id>
-	<name>+2 Slots
+	<name>+1 Slot
 +3 Heat 
 Can be torn into Rags.
 </name>
@@ -2130,7 +2131,7 @@ Some unlocks can be done only on higher difficulties.
 	<name>There is nothing we can talk about.</name>
 </text>
 
-<!-- ????? ???? ??? ????????-->
+<!-- Фразы бота при командах-->
 
 
 <text>
@@ -2143,7 +2144,7 @@ Some unlocks can be done only on higher difficulties.
 	<name>I will guard this area.</name>
 </text>
 
-<!-- ????? ??? ???-->
+<!-- Фразы для сна-->
 
 <text>
 	<id>165</id>
@@ -2221,7 +2222,7 @@ Some unlocks can be done only on higher difficulties.
 	<name>Too close!</name>
 </text>
 
-<!-- ????????? -->
+<!-- Персонажи -->
 
 <text>
 	<id>180</id>
@@ -2436,36 +2437,36 @@ Locations: Gun shops.</name>
 
 <text>
 	<id>617</id>
-	<name>� Slow hunger and thirst rate
-� Warm weather
-� Lowered NPCs damage to player
+	<name>• Slow hunger and thirst rate
+• Warm weather
+• Lowered NPCs damage to player
 </name>
 </text>
 
 <text>
 	<id>618</id>
-	<name>� Medium hunger and thirst rate
-� Normal weather
-� Regular NPCs damage to player
+	<name>• Medium hunger and thirst rate
+• Normal weather
+• Regular NPCs damage to player
 </name>
 </text>
 
 <text>
 	<id>619</id>
-	<name>� High hunger and thirst rate
-� Cold weather
-� High NPCs damage to player
-� Little more zombies in some locations
+	<name>• High hunger and thirst rate
+• Cold weather
+• High NPCs damage to player
+• Little more zombies in some locations
 </name>
 </text>
 
 <text>
 	<id>620</id>
-	<name>� High hunger and thirst rate
-� Cold weather
-� High NPCs damage to player
-� Little more zombies in some locations
-� Not explored areas is hidden on minimap
+	<name>• High hunger and thirst rate
+• Cold weather
+• High NPCs damage to player
+• Little more zombies in some locations
+• Not explored areas is hidden on minimap
 </name>
 </text>
 
@@ -2560,7 +2561,7 @@ Unlock requirement: Finish the game with one of these characters: Emilio "Doc", 
 <text>
 	<id>635</id>
 	<name>Lighter
-Unlock requirement: Finish the game with one of these characters: Lee "Maniac", Sergey "Slav", John �Biker�.</name>
+Unlock requirement: Finish the game with one of these characters: Lee "Maniac", Sergey "Slav", John «Biker».</name>
 </text>
 
 <text>
@@ -2572,7 +2573,7 @@ Unlock requirement: Finish the game with one of these characters: Ganzo "Dragon"
 <text>
 	<id>637</id>
 	<name>Laser sight
-Unlock requirement: Finish the game with one of these characters: Kate "Tourist", Jasmine �Lumber�, Aika "Stringer".</name>
+Unlock requirement: Finish the game with one of these characters: Kate "Tourist", Jasmine «Lumber», Aika "Stringer".</name>
 </text>
 
 <text>
@@ -2699,6 +2700,11 @@ Locations: Carried by infected officers.</name>
 <text>
 	<id>661</id>
 	<name>Keyboard(WASD)</name>
+</text>
+
+<text>
+	<id>662</id>
+	<name>Thank you</name>
 </text>
 
 </list>
