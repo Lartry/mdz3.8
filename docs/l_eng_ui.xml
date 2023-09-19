@@ -359,7 +359,7 @@
 
 <text>
 	<id>71</id>
-	<name>Billy "Red"
+	<name>Maxim "Crusher"
 Unlock requirement: Kill 5 zombies with any shotgun.
 On any difficulty.</name>
 </text>
@@ -380,7 +380,7 @@ On any difficulty.</name>
 
 <text>
 	<id>74</id>
-	<name>Lee "Maniac"
+	<name>Jochi "Chan"
 Kill a bandit survivor with any axe. 
 On "Regular" or higher difficulty.</name>
 </text>
@@ -444,7 +444,7 @@ Unlocked perks: None</name>
 
 <text>
 	<id>83</id>
-	<name>Billy "Red"
+	<name>Maxim "Crusher"
 Starting gear: jeans, t-shirt, bandana.
 Unlocked perks: Sharpshooter.</name>
 </text>
@@ -465,15 +465,15 @@ Unlocked perks: Blocker.</name>
 
 <text>
 	<id>86</id>
-	<name>Lee "Maniac"
-Starting gear: jeans, dress, gasmask, butcher knife.
+	<name>Jochi "Chan"
+Starting gear: jeans, cloak, gasmask, butcher knife.
 Unlocked perks: Sweet home</name>
 </text>
 
 <text>
 	<id>87</id>
 	<name>John "Biker"
-Starting gear: jeans, rider jacket, moto helmet, pipe wrench.
+Starting gear: jeans, rider jacket, sinister mask, pipe wrench.
 Unlocked perks: Sprinter.</name>
 </text>
 
@@ -501,7 +501,7 @@ Unlocked perks: Hunter, Survivalist.</name>
 <text>
 	<id>91</id>
 	<name>Garry "Veteran"
-Starting gear: jeans, t-shirt, cap, bulletproof vest, colt 1911, ammo.
+Starting gear: jeans, t-shirt, cap, bulletproof vest, custom colt, ammo.
 Unlocked perks: Sharpshooter, Scout.</name>
 </text>
 

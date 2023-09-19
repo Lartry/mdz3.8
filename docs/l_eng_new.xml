@@ -170,7 +170,7 @@ Apply time: 6 seconds.
 	<name>+20 Water
 +40 Heat
 
-Ingridient for: Molotov cocktail.
+Ingredient for: Molotov cocktail.
 </name>
 </text>
 
@@ -180,7 +180,7 @@ Ingridient for: Molotov cocktail.
 Apply time: 5 seconds.
 Max stack: 3
 
-Ingridient for: Molotov cocktail, Campfire kit.
+Ingredient for: Molotov cocktail, Campfire kit.
 </name>
 </text>
 
@@ -259,13 +259,13 @@ Max stack: 3
 
 <text>
 	<id>37</id>
-	<name>Ingridient for: Fishing rod, Improvised Bow.
+	<name>Ingredient for: Fishing rod, Improvised Bow.
 </name>
 </text>
 
 <text>
 	<id>38</id>
-	<name>Ingridient for: Campfire kit, Improvised Arrows, Improvised backpack, Improvised Fence.
+	<name>Ingredient for: Campfire kit, Improvised Arrows, Improvised backpack, Improvised Fence.
 Max stack: 5
 </name>
 </text>
@@ -279,13 +279,13 @@ Required for boat repair to get on 3rd island.
 
 <text>
 	<id>40</id>
-	<name>Ingridient for: Improvised Bag.
+	<name>Ingredient for: Improvised Bag.
 </name>
 </text>
 
 <text>
 	<id>41</id>
-	<name>Ingridient for: Improvised Bag, Improvised bow, Fishing rod.
+	<name>Ingredient for: Improvised Bag, Improvised bow, Fishing rod.
 </name>
 </text>
 
@@ -352,13 +352,13 @@ Can be planted with pickaxe, pitchfork or shovel.
 
 <text>
 	<id>49</id>
-	<name>Ingridient for: Campfire Kit.
+	<name>Ingredient for: Campfire Kit.
 </name>
 </text>
 
 <text>
 	<id>50</id>
-	<name>Ingridient for: Campfire Kit, Fence.
+	<name>Ingredient for: Campfire Kit, Fence.
 Required for boat repair to get on 2nd island.
 </name>
 </text>
@@ -696,7 +696,7 @@ Can be cooked on fireplace.
 	<name>+25% to make a headshot when attached.
 -6 to firearm default spread.
 
-Can be mounted on: SKS, Mosin Nagant, SVD, SV-98.
+Can be mounted on: SKS, Sporter, Mosin Nagant, SVD, SV-98.
 </name>
 </text>
 
@@ -833,7 +833,7 @@ If you do not use it, then it will be removed on next island.
 
 <text>
 	<id>117</id>
-	<name>Ingridient for Loot Stash.
+	<name>Ingredient for Loot Stash.
 </name>
 </text>
 
@@ -1462,7 +1462,7 @@ Mag size: 30
 
 <text>
 	<id>307</id>
-	<name>Can be deployed. Loot stored inside will never disappear. Cant be deployed back. ???
+	<name>Can be deployed. Loot stored inside will never disappear. Can be deployed back. 
 </name>
 </text>
 
@@ -1909,10 +1909,10 @@ Can be torn into Rags.
 <!-- Axe -->
 <text>
 	<id>551</id>
-	<name>Damage: 52-87
+	<name>Damage: 50
 Crit chance: 25%
 Block chance: 25%
-Attack speed: 1.5s
+Attack speed: 1.8s
 Can chop down trees.
 </name>
 </text>
@@ -1920,10 +1920,10 @@ Can chop down trees.
 <!-- Shovel -->
 <text>
 	<id>552</id>
-	<name>Damage: 19-31
+	<name>Damage: 29
 Crit chance: 15%
 Block chance: 35%
-Attack speed: 1.6s
+Attack speed: 1s
 Can be used to plant plants.
 </name>
 </text>
@@ -1931,7 +1931,7 @@ Can be used to plant plants.
 <!-- Wrench -->
 <text>
 	<id>553</id>
-	<name>Damage: 23-38
+	<name>Damage: 30
 Crit chance: 25%
 Block chance: 15%
 Attack speed: 1.3s
@@ -1941,7 +1941,7 @@ Attack speed: 1.3s
 <!-- Baseball bat -->
 <text>
 	<id>554</id>
-	<name>Damage: 26-44
+	<name>Damage: 35
 Crit chance: 25%
 Block chance: 15%
 Attack speed: 1s
@@ -1951,10 +1951,10 @@ Attack speed: 1s
 <!-- Fire axe -->
 <text>
 	<id>555</id>
-	<name>Damage: 45-75
+	<name>Damage: 60
 Crit chance: 25%
 Block chance: 25%
-Attack speed: 1.6s
+Attack speed: 1.8s
 Can chop down trees.
 </name>
 </text>
@@ -1962,17 +1962,17 @@ Can chop down trees.
 <!-- Crowbar -->
 <text>
 	<id>556</id>
-	<name>Damage: 19-31
+	<name>Damage: 29
 Crit chance: 25%
 Block chance: 15%
-Attack speed: 1.2s
+Attack speed: 1s
 </name>
 </text>
 
 <!-- Kitchen knife -->
 <text>
 	<id>557</id>
-	<name>Damage: 14-24
+	<name>Damage: 22
 Crit chance: 10%
 Block chance: 5%
 Attack speed: 0.8s
@@ -1982,7 +1982,7 @@ Attack speed: 0.8s
 <!-- Hunter knife -->
 <text>
 	<id>558</id>
-	<name>Damage: 15-25
+	<name>Damage: 24
 Crit chance: 15%
 Block chance: 5%
 Attack speed: 0.8s
@@ -1992,7 +1992,7 @@ Attack speed: 0.8s
 <!-- Army knife -->
 <text>
 	<id>559</id>
-	<name>Damage: 16-26
+	<name>Damage: 26
 Crit chance: 20%
 Block chance: 5%
 Attack speed: 0.8s
@@ -2002,7 +2002,7 @@ Attack speed: 0.8s
 <!-- Pickaxe-->
 <text>
 	<id>560</id>
-	<name>Damage: 33-55
+	<name>Damage: 48
 Crit chance: 15%
 Block chance: 35%
 Attack speed: 1.3s
@@ -2013,7 +2013,7 @@ Can be used to plant plants.
 <!-- Pitchfork -->
 <text>
 	<id>561</id>
-	<name>Damage: 30-50
+	<name>Damage: 40
 Crit chance: 15%
 Block chance: 35%
 Attack speed: 1.2s
@@ -2024,7 +2024,7 @@ Can be used to plant plants.
 <!-- Sledgehammer -->
 <text>
 	<id>562</id>
-	<name>Damage: 36-60
+	<name>Damage: 60
 Crit chance: 15%
 Block chance: 35%
 Attack speed: 1.8s
@@ -2034,7 +2034,7 @@ Attack speed: 1.8s
 <!-- Sword -->
 <text>
 	<id>563</id>
-	<name>Damage: 56-94
+	<name>Damage: 75
 Crit chance: 35%
 Block chance: 25%
 Attack speed: 1.5s
@@ -2045,7 +2045,7 @@ Can chop down trees.
 <!-- Pan -->
 <text>
 	<id>564</id>
-	<name>Damage: 25-41
+	<name>Damage: 40
 Crit chance: 40%
 Block chance: 35%
 Attack speed: 0.9s
@@ -2055,10 +2055,10 @@ Attack speed: 0.9s
 <!-- Katana -->
 <text>
 	<id>565</id>
-	<name>Damage: 48-81
+	<name>Damage: 65
 Crit chance: 35%
 Block chance: 25%
-Attack speed: 1.2s
+Attack speed: 1s
 Can chop down trees.
 </name>
 </text>
@@ -2108,7 +2108,7 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>158</id>
-	<name>I cant do it while im sick.</name>
+	<name>I can't do it while im sick.</name>
 </text>
 
 <text>
@@ -2118,7 +2118,7 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>160</id>
-	<name>Im already bleeding!</name>
+	<name>I'm already bleeding!</name>
 </text>
 
 <text>
@@ -2148,7 +2148,7 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>165</id>
-	<name>I cant sleep when enemies around.</name>
+	<name>I can't sleep when enemies around.</name>
 </text>
 
 <text>
@@ -2174,22 +2174,22 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>170</id>
-	<name>Its too cold here to sleep.</name>
+	<name>It's too cold here to sleep.</name>
 </text>
 
 <text>
 	<id>171</id>
-	<name>Im too hungry.</name>
+	<name>I'm too hungry.</name>
 </text>
 
 <text>
 	<id>172</id>
-	<name>Im too thirsty.</name>
+	<name>I'm too thirsty.</name>
 </text>
 
 <text>
 	<id>173</id>
-	<name>I cant do it while im bleeding.</name>
+	<name>I can't do it while im bleeding.</name>
 </text>
 
 <text>
@@ -2204,12 +2204,12 @@ Some unlocks can be done only on higher difficulties.
 
 <text>
 	<id>176</id>
-	<name>I cant sleep in daytime.</name>
+	<name>I can't sleep in daytime.</name>
 </text>
 
 <text>
 	<id>177</id>
-	<name>I cant sleep here.</name>
+	<name>I can't sleep here.</name>
 </text>
 
 <text>
@@ -2387,7 +2387,7 @@ Locations: Gun shops.</name>
 
 <text>
 	<id>207</id>
-	<name>Dont shoot, we are friendly</name>
+	<name>Don't shoot, we are friendly</name>
 </text>
 
 <text>
@@ -2402,12 +2402,12 @@ Locations: Gun shops.</name>
 
 <text>
 	<id>210</id>
-	<name>Hi! We heard about you! You was helping people in trouble, and we want to help you! Take this:</name>
+	<name>Hi! We heard about you! You are helping people in trouble, and we want to help you! Take this:</name>
 </text>
 
 <text>
 	<id>611</id>
-	<name>I learnt some good skills!</name>
+	<name>I learned some good skills!</name>
 </text>
 
 <text>
@@ -2417,7 +2417,7 @@ Locations: Gun shops.</name>
 
 <text>
 	<id>613</id>
-	<name>I feel like immortal, but im not.</name>
+	<name>I feel like immortal, but I'm not.</name>
 </text>
 
 <text>
@@ -2578,7 +2578,7 @@ Unlock requirement: Finish the game with one of these characters: Kate "Tourist"
 
 <text>
 	<id>638</id>
-	<name>XXX
+	<name>Officer's Keycard
 Unlock requirement: Finish the game with one of these characters: Xavier "Pilot", Rudolf "Jager", Taman "Guard", Daria "Scientist".</name>
 </text>
 
@@ -2649,12 +2649,12 @@ Locations: Carried by infected officers.</name>
 
 <text>
 	<id>651</id>
-	<name>I cant sleep, i can skip rescue helicopter.</name>
+	<name>I can't sleep, i can skip rescue helicopter.</name>
 </text>
 
 <text>
 	<id>652</id>
-	<name>I cant go to bunker, i can skip rescue helicopter.</name>
+	<name>I can't go to bunker, i can skip rescue helicopter.</name>
 </text>
 
 <text>
