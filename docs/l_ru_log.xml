@@ -1,416 +1,545 @@
-<?xml version="1.0"?>
-<list>
-	<text>
-		<id>1</id>
-		<name>Кровотечение остановилось.</name>
-	</text>
-	<text>
-		<id>2</id>
-		<name>Я чувствую себя хорошо.</name>
-	</text>
-	<text>
-		<id>3</id>
-		<name>Я чувствую, как теряю кровь.</name>
-	</text>
-	<text>
-		<id>4</id>
-		<name>Я замерзаю.</name>
-	</text>
-	<text>
-		<id>5</id>
-		<name>Я умираю от голода.</name>
-	</text>
-	<text>
-		<id>6</id>
-		<name>Я умираю от жажды.</name>
-	</text>
-	<text>
-		<id>7</id>
-		<name>Я нашел кое-что в этом багажнике.</name>
-	</text>
-	<text>
-		<id>8</id>
-		<name>В этом багажнике ничего нет.</name>
-	</text>
-	<text>
-		<id>9</id>
-		<name>Боеприпасы закончились.</name>
-	</text>
-	<text>
-		<id>10</id>
-		<name>Магазин пуст.</name>
-	</text>
-	<text>
-		<id>11</id>
-		<name>Оружие поломалось!</name>
-	</text>
-	<text>
-		<id>12</id>
-		<name>В этом насосе нет воды.</name>
-	</text>
-	<text>
-		<id>13</id>
-		<name>Я не хочу пить.</name>
-	</text>
-	<text>
-		<id>14</id>
-		<name>Я съел сырой стейк.</name>
-	</text>
-	<text>
-		<id>15</id>
-		<name>Для этого мне нужен водяной насос.</name>
-	</text>
-	<text>
-		<id>16</id>
-		<name>Я наполнил ее водой из водяного насоса.</name>
-	</text>
-	<text>
-		<id>17</id>
-		<name>Я съел </name>
-	</text>
-	<text>
-		<id>18</id>
-		<name>Я выпил </name>
-	</text>
-	<text>
-		<id>19</id>
-		<name>Я использовал </name>
-	</text>
-	<text>
-		<id>32</id>
-		<name>Оружие полностью заряжено.</name>
-	</text>
-	<text>
-		<id>33</id>
-		<name>Патроны заряжены.</name>
-	</text>
-	<text>
-		<id>34</id>
-		<name>Не помещается.</name>
-	</text>
-	<text>
-		<id>36</id>
-		<name>Я не истекаю кровью.</name>
-	</text>
-	<text>
-		<id>37</id>
-		<name>Переливание крови завершено.</name>
-	</text>
-	<text>
-		<id>38</id>
-		<name>Уже заряжено.</name>
-	</text>
-	<text>
-		<id>39</id>
-		<name>Мне нужен налобный фонарь или очки ночного видения.</name>
-	</text>
-	<text>
-		<id>40</id>
-		<name>Мне нужно положить комплект для костра на землю, чтобы разжечь костер.</name>
-	</text>
-	<text>
-		<id>42</id>
-		<name>Переливание физраствора завершено.</name>
-	</text>
-	<text>
-		<id>44</id>
-		<name>Оружие поломалось.</name>
-	</text>
-	<text>
-		<id>45</id>
-		<name>Оружие почищено.</name>
-	</text>
-	<text>
-		<id>47</id>
-		<name>Автомобиль заправлен.</name>
-	</text>
-	<text>
-		<id>48</id>
-		<name>Для этого мне нужен автомобиль.</name>
-	</text>
-	<text>
-		<id>49</id>
-		<name>Бутылка пустая.</name>
-	</text>
-	<text>
-		<id>50</id>
-		<name>Я отпил из бутылки с водой.</name>
-	</text>
-	<text>
-		<id>51</id>
-		<name>Фляга пустая.</name>
-	</text>
-	<text>
-		<id>52</id>
-		<name>Я отпил из фляги.</name>
-	</text>
-	<text>
-		<id>53</id>
-		<name>Мина установлена.</name>
-	</text>
-	<text>
-		<id>54</id>
-		<name>Капкан установлен.</name>
-	</text>
-	<text>
-		<id>55</id>
-		<name>Автомобиль отремонтирован.</name>
-	</text>
-	<text>
-		<id>56</id>
-		<name>Я приготовил стейк.</name>
-	</text>
-	<text>
-		<id>57</id>
-		<name>Для этого мне нужен костер.</name>
-	</text>
-	<text>
-		<id>59</id>
-		<name>Я выпил Nuko Cola. Чувствую себя прекрасно!</name>
-	</text>
-	<text>
-		<id>60</id>
-		<name>Добыча освежевана.</name>
-	</text>
-	<text>
-		<id>61</id>
-		<name>Нечего свежевать.</name>
-	</text>
-	<text>
-		<id>62</id>
-		<name>Нет свободных слотов.</name>
-	</text>
-	<text>
-		<id>63</id>
-		<name>Нож поломался.</name>
-	</text>
-	<text>
-		<id>64</id>
-		<name>Для этого мне нужно больше деревянных палок.</name>
-	</text>
-	<text>
-		<id>65</id>
-		<name>Налобный фонарь сломался.</name>
-	</text>
-	<text>
-		<id>66</id>
-		<name>Очки ночного видения сломались.</name>
-	</text>
-	<text>
-		<id>68</id>
-		<name>Мне потребуется кирка, вилы или лопата.</name>
-	</text>
-	<text>
-		<id>69</id>
-		<name>Невозможно посадить здесь.</name>
-	</text>
-	<text>
-		<id>70</id>
-		<name>Посадил.</name>
-	</text>
-	<text>
-		<id>72</id>
-		<name>Мне нужен нож, чтобы освежевать добычу.</name>
-	</text>
-	<text>
-		<id>73</id>
-		<name>У меня нет оружия дальнего боя.</name>
-	</text>
-	<text>
-		<id>74</id>
-		<name>Коснитесь здесь, чтобы бросить сигнальную шашку.</name>
-	</text>
-	<text>
-		<id>75</id>
-		<name>Коснитесь здесь, чтобы бросить гранату.</name>
-	</text>
-	<text>
-		<id>76</id>
-		<name>Она уже полная.</name>
-	</text>
-	<text>
-		<id>77</id>
-		<name>Я отпил из водяного насоса.</name>
-	</text>
-	<text>
-		<id>78</id>
-		<name>Я хочу съесть что-нибудь.</name>
-	</text>
-	<text>
-		<id>79</id>
-		<name>Я хочу выпить что-нибудь.</name>
-	</text>
-	<text>
-		<id>80</id>
-		<name>Довольно холодно.</name>
-	</text>
-	<text>
-		<id>81</id>
-		<name>Я начинаю замерзать.</name>
-	</text>
-	<text>
-		<id>82</id>
-		<name>Я начинаю согреваться.</name>
-	</text>
-	<text>
-		<id>83</id>
-		<name>Мне нужно больше заряда аккумулятора.</name>
-	</text>
-	<text>
-		<id>84</id>
-		<name>Похоже, поблизости нет обломков военной техники.</name>
-	</text>
-	<text>
-		<id>85</id>
-		<name>Похоже, что поблизости есть обломки военной техники.</name>
-	</text>
-	<text>
-		<id>100</id>
-		<name>Черт, я серьезно ранен.</name>
-	</text>
-	<text>
-		<id>101</id>
-		<name>Хорошо, я постою на страже.</name>
-	</text>
-	<text>
-		<id>102</id>
-		<name>Я тебя прикрою, пока ты ищешь добычу.</name>
-	</text>
-	<text>
-		<id>103</id>
-		<name>Ты блокируешь цель!</name>
-	</text>
-	<text>
-		<id>104</id>
-		<name>Эй! Давай объединимся!</name>
-	</text>
-	<text>
-		<id>105</id>
-		<name>Так не честно!</name>
-	</text>
-	<text>
-		<id>106</id>
-		<name>Черт, у него пистолет!</name>
-	</text>
-	<text>
-		<id>107</id>
-		<name>Твою мать!</name>
-	</text>
-	<text>
-		<id>108</id>
-		<name>Быстрей, сюда!</name>
-	</text>
-	<text>
-		<id>109</id>
-		<name>Получи!</name>
-	</text>
-	<text>
-		<id>110</id>
-		<name>Я тебя вижу!</name>
-	</text>
-	<text>
-		<id>111</id>
-		<name>Мне нечего предложить взамен. Извини, спроси кого-нибудь еще.</name>
-	</text>
-	<text>
-		<id>125</id>
-		<name>Я мирный.</name>
-	</text>
-	<text>
-		<id>126</id>
-		<name>Хорошо.</name>
-	</text>
-	<text>
-		<id>127</id>
-		<name>Спасибо, что отремонтировал лодку для нас.</name>
-	</text>
+<?xml version="1.0" ?>
 
-	<!-- Update 1.2.0 addings -->
+<list>
+
+<!--Player phrases-->
+
+<text>
+	<id>1</id>
+	<name>I'm no longer bleeding.</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>I feel healthy.</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>I can feel blood dripping.</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>I'm freezing.</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>I'm dying of starvation.</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>I'm dying of dehydration.</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>I found something in this trunk.</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>There is nothing in this trunk.</name>
+</text>
+
+<!--Player phrase: when no ammo for reloading-->
+<text>
+	<id>9</id>
+	<name>No more ammo.</name>
+</text>
+<!--Player phrase: when ranged weapon is empited-->
+<text>
+	<id>10</id>
+	<name>Mag empty.</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>Weapon ruined!</name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>There's no water in this pump.</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>I don't want to drink.</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>I've eaten a raw steak.</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>I need a water pump for that.</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>I've filled it with a waterpump.</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>I've eaten </name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>I've drunk </name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>I've used </name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>Weapon fully loaded.</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>Ammo loaded.</name>
+</text>
+
+<!--Player phrase: when trying to load wrong ammo-->
+<text>
+	<id>34</id>
+	<name>It doesn't fit there.</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>I've applied bandage.</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>I'm not bleeding.</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>Blood transfusion completed.</name>
+</text>
+
+<!--Player phrase: when trying to load battery to nvg/headlamp-->
+<text>
+	<id>38</id>
+	<name>Already charged.</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>I need a headlamp or NVG.</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>I need a fireplace kit on the ground to ignite.</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>I've drunk whiskey.</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>Saline transfusion complete.</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>I've eaten vitamins.</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>Weapon ruined.</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>Weapon cleaned.</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>I've eaten tetracycline.</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>Vehicle fueled.</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>I need a drivable vehicle for that.</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>Bottle empty.</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>I've drunk from the water bottle.</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>Canteen empty.</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>I've drunk from the canteen.</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>Landmine planted.</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>Beartrap planted.</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>Vehicle repaired.</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>I've cooked a steak.</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>I need an active fireplace for that.</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>I've eaten cooked steak.</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>I've drunk a Nuko Cola. Feels great!</name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>Prey skinned.</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>Nothing to flay.</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>No free slots.</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>Knife ruined.</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>I need more wooden sticks for that.</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>Headlamp ruined.</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>NVG ruined.</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>I've drunk Kvas.</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>It requires a pickaxe, pitchfork or shovel.</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>Not possible to plant here.</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>Planted.</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>Block</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>I need a knife to flay prey.</name>
+</text>
+
+<!-- When trying to switch to firearm and you dont have any  -->
+<text>
+	<id>73</id>
+	<name>I have no ranged weapon.</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>Tap where to throw the flare.</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>Tap where to throw the grenade.</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>It's already full.</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>I've drunk from the water pump.</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>I want to eat something.</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>I want to drink something.</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>It's pretty cold.</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>I'm cooling off.</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>I'm warming up.</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>I need more battery charge.</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>Looks like there are no military crashes nearby.</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>Looks like a military crash site is nearby.</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>100</id>
+	<name>Damn, I'm seriously wounded.</name>
+</text>
+
+<!-- Friend bots phrases: when player get into house, bot starts patroling entrance  -->
+<text>
+	<id>101</id>
+	<name>Ok, I'm on the watch.</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>I will cover while you loot.</name>
+</text>
+
+<!-- Friend bots phrase: when player gets on firing line -->
+<text>
+	<id>103</id>
+	<name>You're blocking the target!</name>
+</text>
+
+<!-- Friend bots phrase: on health lower than 50%  -->
+<text>
+	<id>104</id>
+	<name>Hey! Let's team up!</name>
+</text>
+
+<!-- Enemy Melee bot phrases on getting hit from firearm-->
+<text>
+	<id>105</id>
+	<name>Unfair!</name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>Damn, he has a gun!</name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>Shit!</name>
+</text>
+
+<!-- Enemy Bot with firearm when spots player -->
+<text>
+	<id>108</id>
+	<name>Get over here!</name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>Eat this!</name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>I see you!</name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>I have nothing for exchange. Sorry, ask someone else.</name>
+</text>
+
+<!-- Additional player phrases -->
+
+<text>
+	<id>125</id>
+	<name>I�m friendly.</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>Good.</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>Thanks for repairing the boat for us.</name>
+</text>
+
+<!-- Update 1.2.0 addings -->
 
 <text>
 	<id>86</id>
-	<name>Из этой винтовки нельзя сделать обрез.</name>
+	<name>This rifle can't be sawed off.</name>
 </text>
 
 <text>
 	<id>87</id>
-	<name>Эта дверь полностью сломана.</name>
+	<name>This door is completely broken.</name>
 </text>
 
 <text>
 	<id>88</id>
-	<name>Здесь газ! Мне нужен противогаз!</name>
+	<name>Gas is here! I need a gas mask!</name>
 </text>
-
 
 <!-- Update 1.3.0 addings -->
 
 <text>
 	<id>89</id>
-	<name>Для этого мне нужен автомобиль.</name>
+	<name>I need a drivable vehicle for this.</name>
 </text>
 
 <text>
 	<id>90</id>
-	<name>Я не могу сделать это, находясь в автомобиле.</name>
+	<name>I can't do it from inside of the car.</name>
 </text>
 
 <text>
 	<id>91</id>
-	<name>Этот автомобиль уже в хорошем состоянии.</name>
+	<name>This vehicle already is in a good condition.</name>
 </text>
 
 <text>
 	<id>92</id>
-	<name>Этот автомобиль уже полностью заправлен топливом.</name>
+	<name>This vehicle already is fully fueled.</name>
 </text>
 
 <!-- Quests -->
 
 <text>
 	<id>131</id>
-	<name>Мне нечего тебе сказать.</name>
+	<name>I have nothing to say to you.</name>
 </text>
 
 <text>
 	<id>132</id>
-	<name>Для этого мне нужно озеро или море.</name>
+	<name>I need a lake or a sea for this.</name>
 </text>
 
 <text>
 	<id>133</id>
-	<name>Я не вижу поблизости никакой рыбы.</name>
+	<name>I don't see any fish nearby.</name>
 </text>
 
 <text>
 	<id>135</id>
-	<name>Я не болен.</name>
+	<name>I am not sick.</name>
 </text>
 
 <text>
 	<id>136</id>
-	<name>Еще раз спасибо за помощь. Мы скоро выдвигаемся.</name>
+	<name>Thanks again for your help. We are leaving soon.</name>
 </text>
 
 <text>
 	<id>137</id>
-	<name>Вы нашли записку с заметками о различных местах на карте.</name>
+	<name>There is a note with info about some places on the map.</name>
 </text>
 
 <text>
 	<id>138</id>
-	<name>Спасибо! Ваше вознаграждение отмечено на карте.</name>
+	<name>Thanks! Your reward is marked on your map.</name>
 </text>
 
 <text>
 	<id>140</id>
-	<name>Попался!</name>
+	<name>Gotcha!</name>
 </text>
 
 <text>
 	<id>141</id>
-	<name>Черт, ускользнул.</name>
+	<name>Damn, slipped away.</name>
 </text>
-
 
 </list>
