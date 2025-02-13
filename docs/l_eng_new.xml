@@ -131,6 +131,7 @@
 <text>
 	<id>19</id>
 	<name>+50 血量
+	-75 辐射值
 使用时间: 6 秒
 </name>
 </text>
@@ -171,7 +172,9 @@
 	<id>25</id>
 	<name>+20 水分值
 	+20 血量
-+40 热量
+	+20 热量
+	+40 暖流
+	-25 辐射值
 
 可以制作: 燃烧瓶
 </name>
@@ -198,6 +201,7 @@
 <text>
 	<id>28</id>
 	<name>+25 血量
+	-50 辐射值
 使用时间: 6 秒
 </name>
 </text>
@@ -244,7 +248,8 @@
 
 <text>
 	<id>34</id>
-	<name>+25 热量
+	<name>+50 热量
+	+200 暖流
 </name>
 </text>
 
@@ -795,7 +800,7 @@
 	<id>111</id>
 	<name>AK系列步枪通用的前握把
 大幅降低最大扩散, 提高跑动射击和远距射击的精确度
-
+可与激光瞄准合成
 可以安装于: AK-74, AKM, RPK
 </name>
 </text>
@@ -804,8 +809,8 @@
 	<id>112</id>
 	<name>带Pic导轨的武器的前握把
 大幅降低最大扩散, 提高跑动射击和远距射击的精确度
-
-可以安装于: L85, M4, UMP-45
+可与激光瞄准合成
+可以安装于: L85, M4, UMP-45，AUG，Vector
 </name>
 </text>
 
@@ -1629,14 +1634,80 @@
 	<name>
 	伤害: 267-445
 散布: 25-0
-瞄准速度: 0.7
+瞄准速度: 1
 后坐力:17
+移动惩罚：5
 射速: 60
 弹匣: 12.7x108 （5）
 </name>
 </text>
 
+<!-- m249 -->
+<text>
+	<id>266</id>
+	<name>
+	伤害: 15-27
+散布: 20-9
+瞄准速度: 1.5
+后坐力:0
+移动惩罚：5
+射速: 750
+弹匣: 5.56x45 （100）
+</name>
+</text>
 
+<!-- pkm -->
+<text>
+	<id>267</id>
+	<name>
+伤害: 45-75
+散布: 25-11
+瞄准速度: 1.5
+后坐力:0
+移动惩罚：5
+射速: 600
+弹匣: 7.62x54R （100）
+</name>
+</text>
+
+<!-- dp12 -->
+<text>
+	<id>268</id>
+	<name>
+伤害: 15-125
+散布: 25-10
+瞄准速度: 1.5
+后坐力:6
+移动惩罚：2
+射速: 60
+弹匣: 12cal（14）
+</name>
+</text>
+
+<text>
+	<id>295</id>
+	<name>
+伤害: 15-12
+散布: 25-10
+瞄准速度: 1.5
+后坐力:6
+移动惩罚：2
+射速: 60
+弹匣: 12cal（14）
+</name>
+</text>
+<text>
+	<id>292</id>
+	<name>
+伤害: 15-125
+散布: 25-10
+瞄准速度: 1.5
+后坐力:6
+移动惩罚：2
+射速: 60
+弹匣: 12cal（14）
+</name>
+</text>
 <!-- 背包 -->
 <!-- 旅行背包 -->
 <text>
@@ -2003,15 +2074,19 @@
 <!-- 雨衣 -->
 <text>
 	<id>505</id>
-	<name>三个一组的鸡蛋，用来烹饪某些美食。 
+	<name>处理肉片，用来烹饪某些美食。 
 </name>
 </text>
 
 <!-- 雨衣2 -->
 <text>
 	<id>506</id>
-	<name>番茄，三个鸡蛋，一个平底锅 
-	在篝火附近烹饪！
+	<name>+20 饱食度
+	+40 水分值
+	+20 血量
+	+10 温度值
+	+20 暖流
+	-25 辐射值
 </name>
 </text>
 
@@ -2020,8 +2095,9 @@
 	<id>507</id>
 	<name>+70 饱食度
 +40 水分值
-+40血量
-+50温度
++40 血量
++25 温度
++50 暖流
 家常
 	
 </name>
@@ -2046,9 +2122,11 @@
 <text>
 	<id>510</id>
 	<name>+20 水分值
-+70 热量
-达瓦里希
-一切为了人民，乌拉！
++45 热量
++70 暖流
+-25 辐射值
+
+乌拉！
 </name>
 </text>
 
@@ -2059,6 +2137,7 @@
 	它包含了所有极端情况下所需要的一切医疗用品。
 	治疗流血，中毒，移除移速状态
 	+100 血量
+	-100 辐射值
 	使用时间 10s
 </name>
 </text>
@@ -2391,6 +2470,193 @@
 <text>
 	<id>576</id>
 	<name>医疗道具使用时间-50%
+</name>
+</text>
+
+<text>
+	<id>577</id>
+	<name>仅第一天可以使用
+</name>
+</text>
+
+<text>
+	<id>578</id>
+	<name>施肥消耗更低的耐久
+	可以堆叠肥料
+	堆叠上限为200%
+	可以在处理动物尸体时收集肥料
+	可以在施肥中获得经验
+</name>
+</text>
+
+<text>
+	<id>579</id>
+	<name>种植消耗更低的耐久
+	更加熟练地种植农作物
+	可以在种植中获得经验
+</name>
+</text>
+
+<text>
+	<id>580</id>
+	<name>打补丁
+</name>
+</text>
+
+<text>
+	<id>581</id>
+	<name>打补丁
+</name>
+</text>
+
+<text>
+	<id>582</id>
+	<name>+100 饱食度
++50 水分值
++60 血量
++25 温度
++50 温度
+家常
+</name>
+</text>
+
+<text>
+	<id>583</id>
+	<name>发送这个信号……绝对不妙！
+</name>
+</text>
+
+<text>
+	<id>584</id>
+	<name>发送这个信号可以召集伙伴
+</name>
+</text>
+
+<text>
+	<id>585</id>
+	<name>请求补给
+</name>
+</text>
+
+<text>
+	<id>586</id>
+	<name>请求火力覆盖
+</name>
+</text>
+
+<text>
+	<id>587</id>
+	<name>+15 饱食度
++5 水分值
+最大堆叠数: 3
+
+可以用铁镐、干草叉或铲子种植
+</name>
+</text>
+
+<text>
+	<id>588</id>
+	<name>+15 饱食度
++5 水分值
+最大堆叠数: 3
+
+可以用铁镐、干草叉或铲子种植
+</name>
+</text>
+
+<text>
+	<id>589</id>
+	<name>调节时间
+</name>
+</text>
+
+<text>
+	<id>590</id>
+	<name>打开尺
+</name>
+</text>
+
+<text>
+	<id>591</id>
+	<name>发出微弱的光，持续一天
+
+	最大堆叠数: 10
+</name>
+</text>
+
+<text>
+	<id>592</id>
+	<name>可以装载榴弹
+</name>
+</text>
+
+<text>
+	<id>593</id>
+	<name>AK系列步枪通用的前握把
+大幅降低最大扩散, 提高跑动射击和远距射击的精确度
+最大扩散-10，瞄准速度+30%
+可以安装于: AK-74, AKM, RPK
+</name>
+</text>
+
+<text>
+	<id>594</id>
+	<name>带Pic导轨的武器的前握把
+大幅降低最大扩散, 提高跑动射击和远距射击的精确度
+最大扩散-10，瞄准速度+30%
+可以安装于: L85, M4, UMP-45，AUG，Vector
+</name>
+</text>
+
+<text>
+	<id>595</id>
+	<name>笼子里住着一只棕色狗狗，
+	门外挂着一个可爱的牌子："汪树皮"
+</name>
+</text>
+
+<text>
+	<id>596</id>
+	<name>增加"树皮"的血量和攻击力
+</name>
+</text>
+
+<text>
+	<id>597</id>
+	<name>增加"树皮"的回血速度
+</name>
+</text>
+
+<text>
+	<id>598</id>
+	<name>+20% 爆头率
+-2 弹道散布
+
+可以安装于: Ak-74, AKM, AKs-74u, AN-94, Bizon, FN-CAL, Groza, L85, M4, MP5k, RPK, Saiga-12k, UMP-45, VSS
+</name>
+</text>
+
+<text>
+	<id>599</id>
+	<name>标记岛上的刷狼区
+</name>
+</text>
+
+<text>
+	<id>600</id>
+	<name>标记岛上的刷鹿区
+</name>
+</text>
+
+<text>
+	<id>601</id>
+	<name>标记岛上的刷兔区
+</name>
+</text>
+
+<text>
+	<id>602</id>
+	<name>标记岛上的刷僵尸区
 </name>
 </text>
 
@@ -2898,336 +3164,5 @@
 	<name>嗨! 我们听说过你的事! 你帮助过需要帮助的人, 所以我们也希望能帮上你的忙! 拿上这个:</name>
 </text>
 
-<text>
-	<id>611</id>
-	<name>我学到了些有用的东西!</name>
-</text>
-
-<text>
-	<id>610</id>
-	<name>放置床</name>
-</text>
-
-<text>
-	<id>612</id>
-	<name>翻阅</name>
-</text>
-
-<text>
-	<id>613</id>
-	<name>我曾认为我是不朽的, 很显然我错了</name>
-</text>
-
-<text>
-	<id>614</id>
-	<name>分钟</name>
-</text>
-
-<text>
-	<id>615</id>
-	<name>制作帆布</name>
-</text>
-
-<text>
-	<id>616</id>
-	<name>放置物资藏匿处</name>
-</text>
-
-<text>
-	<id>617</id>
-	<name>
-</name>
-</text>
-
-<text>
-	<id>618</id>
-	<name>
-</name>
-</text>
-
-<text>
-	<id>619</id>
-	<name>
-</name>
-</text>
-
-<text>
-	<id>620</id>
-	<name>
-</name>
-</text>
-
-<text>
-	<id>621</id>
-	<name>开始游戏
-</name>
-</text>
-
-<text>
-	<id>622</id>
-	<name>你确定要前往五岛吗? 你将无法再回到这个岛屿
-</name>
-</text>
-
-<text>
-	<id>623</id>
-	<name>你确定要前往五岛吗? 你将无法再回到这个岛屿
-</name>
-</text>
-
-<text>
-	<id>624</id>
-	<name>钓鱼竿坏了
-</name>
-</text>
-
-<text>
-	<id>625</id>
-	<name>制作燃烧瓶
-</name>
-</text>
-
-<text>
-	<id>626</id>
-	<name>绳子和燃烧瓶
-</name>
-</text>
-
-<text>
-	<id>627</id>
-	<name>碎布条 x3 = 绳子
-</name>
-</text>
-
-<text>
-	<id>628</id>
-	<name>威士忌 + 信号弹 = 燃烧瓶
-</name>
-</text>
-
-<text>
-	<id>629</id>
-	<name>物资藏匿处
-</name>
-</text>
-
-<text>
-	<id>630</id>
-	<name>麻袋 + 麻袋 = 帆布
-</name>
-</text>
-
-<text>
-	<id>631</id>
-	<name>麻袋 + 原木 = 物资藏匿处
-存放在物资藏匿处的东西是安全的, 物资藏匿处被敌对单位踩踏会被破坏
-</name>
-</text>
-
-<text>
-	<id>632</id>
-	<name>Mike "程序员"
-解锁条件: 抵达隐藏岛屿 
-难度要求: "传奇"难度
-</name>
-</text>
-
-<text>
-	<id>633</id>
-	<name>Mike "程序员"
-初始装备: 很酷的连帽衫, 工装裤, Vector, 剑, .45ACP弹药 x60, 绷带 x3, 能量饮料 x4
-初始技能: Lv.1 拳师, Lv.1 神射, Lv.1 侦查</name>
-</text>
-
-<text>
-	<id>634</id>
-	<name>医用胶布
-解锁条件: 用这些角色之一通关游戏: 
-Billy "红", Emilio "医生", Dave "格斗家"</name>
-</text>
-
-<text>
-	<id>635</id>
-	<name>打火机
-解锁条件: 用这些角色之一通关游戏: 
-Lee "疯子", John "骑手", Sergey "斯拉夫人"</name>
-</text>
-
-<text>
-	<id>636</id>
-	<name>烟雾弹
-解锁条件: 用这些角色之一通关游戏: 
-Kate "旅行家", Jasmine "伐木工", Aika "特约记者"</name>
-</text>
-
-<text>
-	<id>637</id>
-	<name>激光瞄准镜 
-解锁条件: 用这些角色之一通关游戏: 
-Ganzo "龙武士", Tom "幸存者", Garry "退伍军人"</name>
-</text>
-
-<text>
-	<id>638</id>
-	<name>军官钥匙卡
-解锁条件: 用这些角色之一通关游戏: 
-Xavier "飞行员", Rudolf "猎人", Taman "警卫", Daria "科学家"</name>
-</text>
-
-<text>
-	<id>639</id>
-	<name>...收到! 我们听到了! 我们会在一天内到你那里, 坚持住!...</name>
-</text>
-
-<text>
-	<id>640</id>
-	<name>要试着用电台求援吗?</name>
-</text>
-
-<text>
-	<id>641</id>
-	<name>抽烟</name>
-</text>
-
-<text>
-	<id>642</id>
-	<name>递烟</name>
-</text>
-
-<text>
-	<id>643</id>
-	<name>施肥</name>
-</text>
-
-<text>
-	<id>644</id>
-	<name>物品</name>
-</text>
-
-<text>
-	<id>645</id>
-	<name>医用胶布
-获取地点: 医院, 城市建筑物</name>
-</text>
-
-<text>
-	<id>646</id>
-	<name>打火机
-获取地点: 消防局, 车库</name>
-</text>
-
-<text>
-	<id>647</id>
-	<name>烟雾弹
-获取地点: 地堡, 军事基地</name>
-</text>
-
-<text>
-	<id>648</id>
-	<name>激光瞄准镜
-获取地点: 地堡, 军事基地</name>
-</text>
-
-<text>
-	<id>649</id>
-	<name>军官钥匙卡
-获取地点: 由感染者军官携带</name>
-</text>
-
-<text>
-	<id>650</id>
-	<name>我需要篝火, 火柴或打火机</name>
-</text>
-
-<text>
-	<id>651</id>
-	<name>我不能睡下, 那样很可能会错过救援直升机</name>
-</text>
-
-<text>
-	<id>652</id>
-	<name>我不能进地堡, 那样很可能会错过救援直升机</name>
-</text>
-
-<text>
-	<id>653</id>
-	<name>嘿! 我是 Boris, 欢迎加入!</name>
-</text>
-
-<text>
-	<id>654</id>
-	<name>Nadia, 往东飞, 去4316信号那</name>
-</text>
-
-<text>
-	<id>655</id>
-	<name>你顺利逃离了
-v0.93 感谢啊噗噜派，星韵，老溟LaoMing，漓江，莫明的汉化</name>
-</text>
-
-<text>
-	<id>656</id>
-	<name>我得回到电台那里!</name>
-</text>
-
-<text>
-	<id>657</id>
-	<name>未知的岛屿</name>
-</text>
-
-<text>
-	<id>658</id>
-	<name>你准备好乘坐电梯了吗? 你将无法再返回这里</name>
-</text>
-
-<text>
-	<id>659</id>
-	<name>打开这扇门需要军官钥匙卡</name>
-</text>
-
-<text>
-	<id>660</id>
-	<name>我需要有一株作物才能施肥</name>
-</text>
-
-<text>
-	<id>661</id>
-	<name>未选择</name>
-</text>
-
-<text>
-<id>662</id>
-	<name>谢谢你</name>
-</text>
-
-<text>
-	<id>663</id>
-	<name>我需要一个挎包收纳</name>
-</text>
-
-<text>
-	<id>664</id>
-	<name>放置</name>
-</text>
-
-<text>
-	<id>665</id>
-	<name>近战</name>
-</text>
-
-<text>
-	<id>666</id>
-	<name>烤熟</name>
-</text>
-
-<text>
-	<id>667</id>
-	<name>播放</name>
-</text>
-
-<text>
-	<id>668</id>
-	<name>我需要一个平底锅</name>
-</text>
 
 </list>     

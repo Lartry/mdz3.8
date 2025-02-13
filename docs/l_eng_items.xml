@@ -1288,13 +1288,13 @@
 
 <item>
 	<id>505</id>
-	<name>鸡蛋组</name>
+	<name>通用处理肉片</name>
 	
 </item>
 
 <item>
 	<id>506</id>
-	<name>番茄炒蛋组</name>
+	<name>麦芽酒</name>
 	
 </item>
 
@@ -1556,6 +1556,138 @@
 	<name>《医疗用品说明书》</name>
 </item>
 
+<item>
+	<id>577</id>
+	<name>插件</name>
+</item>
+
+<item>
+	<id>578</id>
+	<name>《肥料处理与使用》</name>
+</item>
+
+<item>
+	<id>579</id>
+	<name>《农具使用说明》</name>
+</item>
+
+<item>
+	<id>580</id>
+	<name>"裁缝匠"</name>
+</item>
+
+<item>
+	<id>581</id>
+	<name>补丁</name>
+</item>
+
+<item>
+	<id>582</id>
+	<name>青椒炒肉</name>
+</item>
+
+<item>
+	<id>583</id>
+	<name>危险讯号</name>
+</item>
+
+<item>
+	<id>584</id>
+	<name>增援讯号</name>
+</item>
+
+<item>
+	<id>585</id>
+	<name>补给讯号</name>
+</item>
+
+<item>
+	<id>586</id>
+	<name>歼灭讯号</name>
+</item>
+
+<item>
+	<id>587</id>
+	<name>土豆</name>
+</item>
+
+<item>
+	<id>588</id>
+	<name>胡萝卜</name>
+</item>
+
+<item>
+	<id>589</id>
+	<name>时间调节器</name>
+</item>
+
+<item>
+	<id>590</id>
+	<name>尺</name>
+</item>
+
+<item>
+	<id>591</id>
+	<name>荧光环</name>
+</item>
+
+<item>
+	<id>592</id>
+	<name>榴弹兵腰带</name>
+</item>
+
+<item>
+	<id>593</id>
+	<name>AK握把+激光</name>
+</item>
+
+<item>
+	<id>594</id>
+	<name>Rail握把+激光</name>
+</item>
+
+<item>
+	<id>595</id>
+	<name>宠物笼</name>
+</item>
+
+<item>
+	<id>596</id>
+	<name>《猎犬训练方案》</name>
+</item>
+
+<item>
+	<id>597</id>
+	<name>《修勾喂养技巧》</name>
+</item>
+
+<item>
+	<id>598</id>
+	<name>全息瞄准镜</name>
+</item>
+
+<item>
+	<id>599</id>
+	<name>《狩猎周刊》狼</name>
+</item>
+
+<item>
+	<id>600</id>
+	<name>《狩猎周刊》鹿</name>
+</item>
+
+<item>
+	<id>601</id>
+	<name>《狩猎周刊》兔</name>
+</item>
+
+<item>
+	<id>602</id>
+	<name>《狩猎周刊》僵尸</name>
+</item>
+
+
+
 <!--更新 1.5.0 道具和武器-->
 
 <item>
@@ -1601,6 +1733,21 @@
 <item>
 	<id>193</id>
 	<name>KSVK 12.7</name>
+</item>
+
+<item>
+	<id>194</id>
+	<name>M249</name>
+</item>
+
+<item>
+	<id>195</id>
+	<name>PKM</name>
+</item>
+
+<item>
+	<id>221</id>
+	<name>DP-12</name>
 </item>
 
 <item>

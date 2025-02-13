@@ -594,4 +594,104 @@
 	<name>一个普通的人</name>
 </text>
 
+<text>
+	<id>151</id>
+	<name>无效</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>启用次元背包</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>启用全民公敌</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>启用无限火力</name>
+</text>
+
+<text>
+	<id>155</id>
+	<name>启用感染源</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>启用极端环境</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>启用奔跑</name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>启用枪林弹雨</name>
+</text>
+
+<text>
+	<id>159</id>
+	<name>需要生火、准备生鸡蛋×3，番茄×1</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>材料不足</name>
+</text>
+
+<text>
+	<id>161</id>
+	<name>需要准备材料</name>
+</text>
+
+<text>
+	<id>162</id>
+	<name>材料装不下</name>
+</text>
+
+<text>
+	<id>163</id>
+	<name>需要生火、准备肉片×2，灯笼椒×3</name>
+</text>
+
+<text>
+	<id>164</id>
+	<name>烹饪时间！我炒了一碗青椒炒肉</name>
+</text>
+
+<text>
+	<id>165</id>
+	<name>启用夜猫子</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>启用第七街</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>启用尺</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>关闭尺</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>启用辐射区</name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>启用休闲</name>
+</text>
+
 </list>
