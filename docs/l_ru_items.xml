@@ -1146,6 +1146,460 @@
 
 <!--Update 1.5.0 gear and weapons-->
 <item>
+<!--Update 1.5.0 gear and weapons-->
+        <id>127</id>
+        <name>副武器武器箱</name>
+        
+</item>
+<item>
+        <id>128</id>
+        <name>基础武器箱</name>
+        
+</item>
+<item>
+        <id>129</id>
+        <name>特殊武器箱</name>
+        
+</item>
+<item>
+        <id>130</id>
+        <name>银柯武器箱</name>
+        
+</item>
+<item>
+        <id>131</id>
+        <name>消音雷明顿武器箱</name>
+        
+</item>
+<item>
+        <id>132</id>
+        <name>麦德森武器箱</name>
+        
+</item>
+<item>
+        <id>133</id>
+        <name>专业输血用具</name>
+        
+</item>
+<item>
+        <id>134</id>
+        <name>专业输血用具</name>
+        
+</item>
+<item>
+        <id>135</id>
+        <name>野外生存组合</name>
+        
+</item>
+<item>
+        <id>136</id>
+        <name>野外生存套件</name>
+        
+</item>
+<item>
+        <id>137</id>
+        <name>CAT止血带</name>
+        
+</item>
+<item>
+        <id>138</id>
+        <name>挎包</name>
+        
+</item>
+<item>
+        <id>139</id>
+        <name>生狼肉</name>
+        
+</item>
+<item>
+        <id>140</id>
+        <name>熟狼肉</name>
+        
+</item>
+<item>
+        <id>141</id>
+        <name>鹿皮</name>
+        
+</item>
+<item>
+        <id>142</id>
+        <name>急救套装（有血）</name>
+        
+</item>
+<item>
+        <id>143</id>
+        <name>急救套装（无血）</name>
+        
+</item>
+<item>
+        <id>144</id>
+        <name>唱片机</name>
+        
+</item>
+<item>
+        <id>145</id>
+        <name>平底锅</name>
+        
+</item>
+<item>
+        <id>146</id>
+        <name>鸡蛋</name>
+        
+</item>
+<item>
+        <id>147</id>
+        <name>Fallen Dawn</name>
+        
+</item>
+<item>
+        <id>148</id>
+        <name>煎蛋</name>
+        
+</item>
+<item>
+        <id>505</id>
+        <name>通用处理肉片</name>
+        
+</item>
+<item>
+        <id>506</id>
+        <name>麦芽酒</name>
+        
+</item>
+<item>
+        <id>507</id>
+        <name>番茄炒蛋</name>
+        
+</item>
+<item>
+        <id>508</id>
+        <name>Never Gonna Give You Up</name>
+        
+</item>
+<item>
+        <id>509</id>
+        <name>巧克力棒</name>
+        
+</item>
+<item>
+        <id>510</id>
+        <name>伏特加</name>
+        
+</item>
+<item>
+        <id>511</id>
+        <name>Grizzly急救包</name>
+        
+</item>
+<item>
+        <id>512</id>
+        <name>7.62x39弹药盒</name>
+        
+</item>
+<item>
+        <id>513</id>
+        <name>武器收纳箱</name>
+        
+</item>
+<item>
+        <id>514</id>
+        <name>武器收纳箱[莫辛纳甘]</name>
+        
+</item>
+<item>
+        <id>520</id>
+        <name>武器收纳箱[M4]</name>
+</item>
+<item>
+        <id>521</id>
+        <name>武器收纳箱[IZH]</name>
+</item>
+<item>
+        <id>522</id>
+        <name>武器收纳箱[AK-74]</name>
+</item>
+<item>
+        <id>523</id>
+        <name>武器收纳箱[AKM]</name>
+</item>
+<item>
+        <id>524</id>
+        <name>武器收纳箱[AKS-74U]</name>
+</item>
+<item>
+        <id>525</id>
+        <name>武器收纳箱[SKS]</name>
+</item>
+<item>
+        <id>526</id>
+        <name>武器收纳箱[L85]</name>
+</item>
+<item>
+        <id>527</id>
+        <name>武器收纳箱[雷明顿]</name>
+</item>
+<item>
+        <id>528</id>
+        <name>武器收纳箱[Sporter 22]</name>
+</item>
+<item>
+        <id>529</id>
+        <name>武器收纳箱[亨利步枪]</name>
+</item>
+<item>
+        <id>530</id>
+        <name>武器收纳箱[SVD]</name>
+</item>
+<item>
+        <id>531</id>
+        <name>武器收纳箱[MP5K]</name>
+</item>
+<item>
+        <id>532</id>
+        <name>武器收纳箱[UMP-45]</name>
+</item>
+<item>
+        <id>533</id>
+        <name>武器收纳箱[RPK]</name>
+</item>
+<item>
+        <id>534</id>
+        <name>武器收纳箱[Fn-cal]</name>
+</item>
+<item>
+        <id>535</id>
+        <name>武器收纳箱[S12k]</name>
+</item>
+<item>
+        <id>536</id>
+        <name>武器收纳箱[AUG]</name>
+</item>
+<item>
+        <id>537</id>
+        <name>武器收纳箱[野牛]</name>
+</item>
+<item>
+        <id>538</id>
+        <name>武器收纳箱[Groza]</name>
+</item>
+<item>
+        <id>539</id>
+        <name>武器收纳箱[VSS]</name>
+</item>
+<item>
+        <id>540</id>
+        <name>武器收纳箱[SV-98]</name>
+</item>
+<item>
+        <id>541</id>
+        <name>武器收纳箱[An-94]</name>
+</item>
+<item>
+        <id>542</id>
+        <name>武器收纳箱[M16a2]</name>
+</item>
+<item>
+        <id>543</id>
+        <name>武器收纳箱[Vector]</name>
+</item>
+<item>
+        <id>544</id>
+        <name>5.56x45弹药盒</name>
+</item>
+<item>
+        <id>545</id>
+        <name>5.45x39弹药盒</name>
+</item>
+<item>
+        <id>546</id>
+        <name>.357弹药盒</name>
+</item>
+<item>
+        <id>547</id>
+        <name>9x39弹药盒</name>
+</item>
+<item>
+        <id>548</id>
+        <name>.45ACP弹药盒</name>
+</item>
+<item>
+        <id>549</id>
+        <name>9x18弹药盒</name>
+</item>
+<item>
+        <id>550</id>
+        <name>9mm弹药盒</name>
+</item>
+<item>
+        <id>566</id>
+        <name>.22lr弹药盒</name>
+</item>
+<item>
+        <id>567</id>
+        <name>12cal弹药盒</name>
+</item>
+<item>
+        <id>568</id>
+        <name>7.62x54R弹药盒</name>
+</item>
+<item>
+        <id>569</id>
+        <name>12.7x108弹药</name>
+</item>
+<item>
+        <id>570</id>
+        <name>武器收纳箱[KSVK 12.7]</name>
+</item>
+<item>
+        <id>571</id>
+        <name>《服装保养手册》（帽盔）</name>
+</item>
+<item>
+        <id>572</id>
+        <name>《服装保养手册》（背心）</name>
+</item>
+<item>
+        <id>573</id>
+        <name>《服装保养手册》（衣裤）</name>
+</item>
+<item>
+        <id>574</id>
+        <name>《服装保养手册》（背包）</name>
+</item>
+<item>
+        <id>575</id>
+        <name>《外伤处理》</name>
+</item>
+<item>
+        <id>576</id>
+        <name>《医疗用品说明书》</name>
+</item>
+<item>
+        <id>577</id>
+        <name>插件</name>
+</item>
+<item>
+        <id>578</id>
+        <name>《肥料处理与使用》</name>
+</item>
+<item>
+        <id>579</id>
+        <name>《农具使用说明》</name>
+</item>
+<item>
+        <id>580</id>
+        <name>"裁缝匠"</name>
+</item>
+<item>
+        <id>581</id>
+        <name>补丁</name>
+</item>
+<item>
+        <id>582</id>
+        <name>青椒炒肉</name>
+</item>
+<item>
+        <id>583</id>
+        <name>危险讯号</name>
+</item>
+<item>
+        <id>584</id>
+        <name>增援讯号</name>
+</item>
+<item>
+        <id>585</id>
+        <name>补给讯号</name>
+</item>
+<item>
+        <id>586</id>
+        <name>歼灭讯号</name>
+</item>
+<item>
+        <id>587</id>
+        <name>土豆</name>
+</item>
+<item>
+        <id>588</id>
+        <name>胡萝卜</name>
+</item>
+<item>
+        <id>589</id>
+        <name>时间调节器</name>
+</item>
+<item>
+        <id>590</id>
+        <name>尺</name>
+</item>
+<item>
+        <id>591</id>
+        <name>荧光环</name>
+</item>
+<item>
+        <id>592</id>
+        <name>榴弹兵腰带</name>
+</item>
+<item>
+        <id>593</id>
+        <name>AK握把+激光</name>
+</item>
+<item>
+        <id>594</id>
+        <name>Rail握把+激光</name>
+</item>
+<item>
+        <id>595</id>
+        <name>宠物笼</name>
+</item>
+<item>
+        <id>596</id>
+        <name>《猎犬训练方案》</name>
+</item>
+<item>
+        <id>597</id>
+        <name>《修勾喂养技巧》</name>
+</item>
+<item>
+        <id>598</id>
+        <name>全息瞄准镜</name>
+</item>
+<item>
+        <id>599</id>
+        <name>《狩猎周刊》狼</name>
+</item>
+<item>
+        <id>600</id>
+        <name>《狩猎周刊》鹿</name>
+</item>
+<item>
+        <id>601</id>
+        <name>《狩猎周刊》兔</name>
+</item>
+<item>
+        <id>602</id>
+        <name>《狩猎周刊》僵尸</name>
+</item>
+<item>
+<item>
+        <id>193</id>
+        <name>KSVK 12.7</name>
+</item>
+<item>
+        <id>194</id>
+        <name>M249</name>
+</item>
+<item>
+        <id>195</id>
+        <name>PKM</name>
+</item>
+<item>
+        <id>221</id>
+        <name>DP-12</name>
+</item>
+<item>
+        <id>269</id>
+        <name>夜视仪头盔</name>
+</item>
+<item>
 	<id>366</id>
 	<name>Awesome Hoodie</name>
 </item>

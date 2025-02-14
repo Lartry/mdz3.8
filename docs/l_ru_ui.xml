@@ -1286,7 +1286,28 @@ There are multiple islands to visit, but beware! Once you get to another island 
 	<id>321</id>
 	<name>Flay</name>
 </text>
-
+<text>
+<!-- for waterbottle and canteen-->
+<text>
+        <id>144</id>
+        <name>放置</name>
+</text>
+        <id>145</id>
+        <name>近战</name>
+</text>
+<text>
+        <id>146</id>
+        <name>烤熟</name>
+</text>
+<text>
+        <id>147</id>
+        <name>播放</name>
+</text>
+<!--应该是部署地雷吗 阔剑的-->
+<text>
+        <id>321</id>
+        <name>剥皮</name>
+</text>
 <!-- for waterbottle and canteen-->
 <text>
 	<id>322</id>
@@ -2301,5 +2322,459 @@ Locations: Underground bunkers.</name>
 	<id>447</id>
 	<name>Wave</name>
 </text>
-
+<text>
+        <id>448</id>
+        <name>解锁</name>
+</text>
+<text>
+        <id>449</id>
+        <name>制作椅子</name>
+</text>
+<text>
+        <id>450</id>
+        <name>制作针线包</name>
+</text>
+<text>
+        <id>451</id>
+        <name>组合</name>
+</text>
+<text>
+        <id>452</id>
+        <name>加装水壶</name>
+</text>
+<text>
+        <id>453</id>
+        <name>缝制挎包</name>
+</text>
+<text>
+        <id>454</id>
+        <name>急救套装</name>
+</text>
+<text>
+        <id>455</id>
+        <name>拆除家具</name>
+</text>
+<text>
+        <id>476</id>
+        <name>一组鸡蛋</name>
+</text>
+<text>
+        <id>477</id>
+        <name>我需要 3 个生鸡蛋</name>
+</text>
+<text>
+        <id>478</id>
+        <name>烹饪</name>
+</text>
+<text>
+        <id>479</id>
+        <name>装入主武器</name>
+</text>
+<text>
+        <id>480</id>
+        <name>夜视</name>
+</text>
+<text>
+        <id>481</id>
+        <name>饥荒</name>
+</text>
+<text>
+        <id>482</id>
+        <name>更耐饿50%，食物加成降低66%
+        不再自回血，双倍回血道具改为瞬间恢复一定量
+        四季轮换
+        制作中</name>
+</text>
+<text>
+        <id>483</id>
+        <name>准备工作</name>
+</text>
+<text>
+        <id>484</id>
+        <name>处理肉</name>
+</text>
+<text>
+        <id>485</id>
+        <name>番茄炒蛋</name>
+</text>
+<text>
+        <id>486</id>
+        <name>青椒炒肉</name>
+</text>
+<text>
+        <id>487</id>
+        <name>补丁</name>
+</text>
+<text>
+        <id>488</id>
+        <name>缝补材料</name>
+</text>
+<text>
+        <id>489</id>
+        <name>取烟</name>
+</text>
+<text>
+        <id>490</id>
+        <name>藏烟</name>
+</text>
+<text>
+        <id>491</id>
+        <name>加10秒</name>
+</text>
+<text>
+        <id>492</id>
+        <name>加1小时</name>
+</text>
+<text>
+        <id>493</id>
+        <name>加1天</name>
+</text>
+<text>
+        <id>494</id>
+        <name>夜猫子</name>
+</text>
+<text>
+        <id>495</id>
+        <name>第七街</name>
+</text>
+<text>
+        <id>496</id>
+        <name>装备</name>
+</text>
+<text>
+        <id>497</id>
+        <name>合成</name>
+</text>
+<text>
+        <id>498</id>
+        <name>翻阅</name>
+</text>
+<text>
+        <id>499</id>
+        <name>我学到一些有用的东西</name>
+</text>
+<text>
+        <id>610</id>
+        <name>放置床</name>
+</text>
+<text>
+        <id>612</id>
+        <name>翻阅</name>
+</text>
+<text>
+        <id>613</id>
+        <name>我曾认为我是不朽的, 很显然我错了</name>
+</text>
+<text>
+        <id>614</id>
+        <name>分钟</name>
+</text>
+<text>
+        <id>615</id>
+        <name>制作帆布</name>
+</text>
+<text>
+        <id>616</id>
+        <name>放置物资藏匿处</name>
+</text>
+<text>
+        <id>617</id>
+        <name>
+</name>
+</text>
+<text>
+        <id>618</id>
+        <name>
+</name>
+</text>
+<text>
+        <id>619</id>
+        <name>
+</name>
+</text>
+<text>
+        <id>620</id>
+        <name>
+</name>
+</text>
+<text>
+        <id>621</id>
+        <name>开始游戏
+</name>
+</text>
+<text>
+        <id>622</id>
+        <name>你确定要前往五岛吗? 你将无法再回到这个岛屿
+</name>
+</text>
+<text>
+        <id>623</id>
+        <name>你确定要前往五岛吗? 你将无法再回到这个岛屿
+</name>
+</text>
+<text>
+        <id>624</id>
+        <name>钓鱼竿坏了
+</name>
+</text>
+<text>
+        <id>625</id>
+        <name>制作燃烧瓶
+</name>
+</text>
+<text>
+        <id>626</id>
+        <name>绳子和燃烧瓶
+</name>
+</text>
+<text>
+        <id>627</id>
+        <name>碎布条 x3 = 绳子
+</name>
+</text>
+<text>
+        <id>628</id>
+        <name>威士忌 + 信号弹 = 燃烧瓶
+</name>
+</text>
+<text>
+        <id>629</id>
+        <name>物资藏匿处
+</name>
+</text>
+<text>
+        <id>630</id>
+        <name>麻袋 + 麻袋 = 帆布
+</name>
+</text>
+<text>
+        <id>631</id>
+        <name>麻袋 + 原木 = 物资藏匿处
+存放在物资藏匿处的东西是安全的, 物资藏匿处被敌对单位踩踏会被破坏
+</name>
+</text>
+<text>
+        <id>632</id>
+        <name>Mike "程序员"
+解锁条件: 抵达隐藏岛屿
+难度要求: "传奇"难度
+</name>
+</text>
+<text>
+        <id>633</id>
+        <name>Mike "程序员"
+初始装备: 很酷的连帽衫, 工装裤, 登山包, 高容量背心, 苏联毛帽, PKM, 剑, 7.62x54R弹药 x100
+初始技能: Lv.1 拳师, Lv.1 神射, Lv.1 侦查</name>
+</text>
+<text>
+        <id>634</id>
+        <name>医用胶布
+解锁条件: 用这些角色之一通关游戏:
+Billy "红", Emilio "医生", Dave "格斗家"</name>
+</text>
+<text>
+        <id>635</id>
+        <name>打火机
+解锁条件: 用这些角色之一通关游戏:
+Lee "疯子", John "骑手", Sergey "斯拉夫人"</name>
+</text>
+<text>
+        <id>636</id>
+        <name>烟雾弹
+解锁条件: 用这些角色之一通关游戏:
+Kate "旅行家", Jasmine "伐木工", Aika "特约记者"</name>
+</text>
+<text>
+        <id>637</id>
+        <name>激光瞄准镜
+解锁条件: 用这些角色之一通关游戏:
+Ganzo "龙武士", Tom "幸存者", Garry "退伍军人"</name>
+</text>
+<text>
+        <id>638</id>
+        <name>军官钥匙卡
+解锁条件: 用这些角色之一通关游戏:
+Xavier "飞行员", Rudolf "猎人", Taman "警卫", Daria "科学家"</name>
+</text>
+<text>
+        <id>639</id>
+        <name>...收到! 我们听到了! 我们会在一天内到你那里, 坚持住!...</name>
+</text>
+<text>
+        <id>640</id>
+        <name>要试着用电台求援吗?</name>
+</text>
+<text>
+        <id>641</id>
+        <name>抽烟</name>
+</text>
+<text>
+        <id>642</id>
+        <name>递烟</name>
+</text>
+<text>
+        <id>643</id>
+        <name>施肥</name>
+</text>
+<text>
+        <id>644</id>
+        <name>物品</name>
+</text>
+<text>
+        <id>645</id>
+        <name>医用胶布
+获取地点: 医院, 城市建筑物</name>
+</text>
+<text>
+        <id>646</id>
+        <name>打火机
+获取地点: 消防局, 车库</name>
+</text>
+<text>
+        <id>647</id>
+        <name>烟雾弹
+获取地点: 地堡, 军事基地</name>
+</text>
+<text>
+        <id>648</id>
+        <name>激光瞄准镜
+获取地点: 地堡, 军事基地</name>
+</text>
+<text>
+        <id>649</id>
+        <name>军官钥匙卡
+获取地点: 由感染者军官携带</name>
+</text>
+<text>
+        <id>650</id>
+        <name>我需要篝火, 火柴或打火机</name>
+</text>
+<text>
+        <id>651</id>
+        <name>我不能睡下, 那样很可能会错过救援直升机</name>
+</text>
+<text>
+        <id>652</id>
+        <name>我不能进地堡, 那样很可能会错过救援直升机</name>
+</text>
+<text>
+        <id>653</id>
+        <name>嘿! 我是 Boris, 欢迎加入!</name>
+</text>
+<text>
+        <id>654</id>
+        <name>Nadia, 往东飞, 去4316信号那</name>
+</text>
+<text>
+        <id>655</id>
+        <name>你顺利逃离了
+v0.93 感谢啊噗噜派，星韵，老溟LaoMing，漓江，莫明的汉化</name>
+</text>
+<text>
+        <id>656</id>
+        <name>我得回到电台那里!</name>
+</text>
+<text>
+        <id>657</id>
+        <name>未知的岛屿</name>
+</text>
+<text>
+        <id>658</id>
+        <name>你准备好乘坐电梯了吗? 你将无法再返回这里</name>
+</text>
+<text>
+        <id>659</id>
+        <name>打开这扇门需要军官钥匙卡</name>
+</text>
+<text>
+        <id>660</id>
+        <name>我需要有一株作物才能施肥</name>
+</text>
+<text>
+        <id>661</id>
+        <name>未选择</name>
+</text>
+<text>
+<id>662</id>
+        <name>谢谢你</name>
+</text>
+<text>
+        <id>663</id>
+        <name>我需要一个挎包收纳</name>
+</text>
+<text>
+        <id>664</id>
+        <name>放置</name>
+</text>
+<text>
+        <id>665</id>
+        <name>近战</name>
+</text>
+<text>
+        <id>666</id>
+        <name>烤熟</name>
+</text>
+<text>
+        <id>667</id>
+        <name>播放</name>
+</text>
+<text>
+        <id>668</id>
+        <name>我需要一个平底锅</name>
+</text>
+<text>
+        <id>669</id>
+        <name>次元背包</name>
+</text>
+<text>
+        <id>670</id>
+        <name>全民公敌</name>
+</text>
+<text>
+        <id>671</id>
+        <name>无限火力</name>
+</text>
+<text>
+        <id>672</id>
+        <name>感染源</name>
+</text>
+<text>
+        <id>673</id>
+        <name>极端环境</name>
+</text>
+<text>
+        <id>674</id>
+        <name>奔跑</name>
+</text>
+<text>
+        <id>675</id>
+        <name>翻页</name>
+</text>
+<text>
+        <id>676</id>
+        <name>枪林弹雨</name>
+</text>
+<text>
+        <id>677</id>
+        <name>暖流</name>
+</text>
+<text>
+        <id>678</id>
+        <name>辐射区</name>
+</text>
+<text>
+        <id>679</id>
+        <name>休闲</name>
+</text>
+<text>
+        <id>680</id>
+        <name>总失血量-50%，并使失血更缓慢地进行</name>
+</text>
+<text>
+        <id>681</id>
+        <name>
+种植消耗更低的耐久
+        更加熟练地种植农作物
+        可以在种植中获得经验</name>
+</text>
 </list>
