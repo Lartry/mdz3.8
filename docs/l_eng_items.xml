@@ -1,415 +1,419 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 
 <list>
 
-<!--INVENTORY ITEMS-->
+<!--食物-->
 
 <item>
 	<id>1</id>
-	<name>Canned beans</name>
+	<name>豆类罐头</name>
 </item>
 
 <item>
 	<id>2</id>
-	<name>Canned tuna</name>
+	<name>金枪鱼罐头</name>
 </item>
 
 <item>
 	<id>3</id>
-	<name>Tactical bacon</name>
+	<name>战术培根</name>
 </item>
 
 <item>
 	<id>4</id>
-	<name>Rice</name>
+	<name>大米</name>
 </item>
 
 <item>
 	<id>5</id>
-	<name>Tomato</name>
+	<name>番茄</name>
 </item>
 
 <item>
 	<id>6</id>
-	<name>Apple</name>
+	<name>苹果</name>
 </item>
 
 <item>
 	<id>7</id>
-	<name>Banana</name>
+	<name>香蕉</name>
 </item>
 
 <item>
 	<id>8</id>
-	<name>Pipsi</name>
+	<name>百事可乐</name>
 </item>
 
 <item>
 	<id>9</id>
-	<name>Spite</name>
+	<name>雪碧</name>
 </item>
 
 <item>
 	<id>10</id>
-	<name>Kvas</name>
-</item>
-
-<item>
-	<id>11</id>
-	<name>5.56x45 ammo</name>
-</item>
-
-<item>
-	<id>12</id>
-	<name>.45 ACP ammo</name>
-</item>
-
-
-<item>
-	<id>13</id>
-	<name>7.62x54R ammo</name>
-</item>
-
-<item>
-	<id>14</id>
-	<name>7.62x39 ammo</name>
-</item>
-
-<item>
-	<id>15</id>
-	<name>5.45x39 ammo</name>
-</item>
-
-<item>
-	<id>16</id>
-	<name>.357 ammo</name>
-</item>
-
-<item>
-	<id>17</id>
-	<name>12cal ammo</name>
-</item>
-
-<item>
-	<id>18</id>
-	<name>Bandage</name>
-</item>
-
-<item>
-	<id>19</id>
-	<name>Blood bag</name>
-</item>
-
-<item>
-	<id>20</id>
-	<name>Flare</name>
-</item>
-
-<item>
-	<id>21</id>
-	<name>F1 grenade</name>
-</item>
-
-<item>
-	<id>22</id>
-	<name>Battery</name>
-</item>
-
-<item>
-	<id>23</id>
-	<name>Campfire kit</name>
-</item>
-
-<item>
-	<id>24</id>
-	<name>Matches</name>
+	<name>淡啤酒</name>
 </item>
 
 <item>
 	<id>25</id>
-	<name>Whiskey</name>
-</item>
-
-<item>
-	<id>26</id>
-	<name>Rags</name>
+	<name>威士忌</name>
 </item>
 
 <item>
 	<id>27</id>
-	<name>Cranberry</name>
-</item>
-
-<item>
-	<id>28</id>
-	<name>Saline bag</name>
-</item>
-
-<item>
-	<id>29</id>
-	<name>Vitamins</name>
+	<name>蔓越莓</name>
 </item>
 
 <item>
 	<id>30</id>
-	<name>Nota-Cola</name>
+	<name>可口可乐</name>
 </item>
 
 <item>
 	<id>31</id>
-	<name>Zucchini</name>
+	<name>西葫芦</name>
 </item>
 
 <item>
 	<id>32</id>
-	<name>Bell pepper</name>
+	<name>灯笼椒</name>
 </item>
 
 <item>
 	<id>33</id>
-	<name>Orange</name>
+	<name>橘子</name>
+</item>
+
+
+<!--弹药-->
+
+<item>
+	<id>11</id>
+	<name>5.56x45弹药</name>
+</item>
+
+<item>
+	<id>12</id>
+	<name>.45ACP弹药</name>
+</item>
+
+<item>
+	<id>13</id>
+	<name>7.62x54R弹药</name>
+</item>
+
+<item>
+	<id>14</id>
+	<name>7.62x39弹药</name>
+</item>
+
+<item>
+	<id>15</id>
+	<name>5.45x39弹药</name>
+</item>
+
+<item>
+	<id>16</id>
+	<name>.357弹药</name>
+</item>
+
+<item>
+	<id>17</id>
+	<name>12cal弹药</name>
+</item>
+
+<!--道具-->
+
+<item>
+	<id>18</id>
+	<name>绷带</name>
+</item>
+
+<item>
+	<id>19</id>
+	<name>血袋</name>
+</item>
+
+<item>
+	<id>20</id>
+	<name>信号弹</name>
+</item>
+
+<item>
+	<id>21</id>
+	<name>F1手雷</name>
+</item>
+
+<item>
+	<id>22</id>
+	<name>电池</name>
+</item>
+
+<item>
+	<id>23</id>
+	<name>营火套件</name>
+</item>
+
+<item>
+	<id>24</id>
+	<name>火柴</name>
+</item>
+
+<item>
+	<id>26</id>
+	<name>碎布条</name>
+</item>
+
+<item>
+	<id>28</id>
+	<name>生理盐水</name>
+</item>
+
+<item>
+	<id>29</id>
+	<name>维生素</name>
 </item>
 
 <item>
 	<id>34</id>
-	<name>Heatpack</name>
+	<name>暖手宝</name>
 </item>
 
 <item>
 	<id>35</id>
-	<name>Sewing kit</name>
+	<name>修补盒</name>
 </item>
 
 <item>
 	<id>36</id>
-	<name>Cleaning kit</name>
+	<name>清洁套装</name>
 </item>
 
 <item>
 	<id>37</id>
-	<name>Ashwood stick</name>
+	<name>白蜡木棍</name>
 </item>
 
 <item>
 	<id>38</id>
-	<name>Wood sticks</name>
+	<name>木棍</name>
 </item>
 
 <item>
 	<id>39</id>
-	<name>Duct tape</name>
+	<name>胶带</name>
 </item>
 
 <item>
 	<id>40</id>
-	<name>Burlap sack</name>
+	<name>麻袋</name>
 </item>
 
 <item>
 	<id>41</id>
-	<name>Rope</name>
+	<name>绳子</name>
 </item>
 
 <item>
 	<id>42</id>
-	<name>Hunter knife</name>
+	<name>猎刀</name>
 </item>
 
 <item>
 	<id>43</id>
-	<name>Army knife</name>
+	<name>军用匕首</name>
 </item>
 
 <item>
 	<id>44</id>
-	<name>Butcher knife</name>
+	<name>菜刀</name>
 </item>
 
 <item>
 	<id>45</id>
-	<name>Adrenaline</name>
+	<name>肾上腺素</name>
 </item>
 
 <item>
 	<id>46</id>
-	<name>Tetracycline</name>
+	<name>四环素</name>
 </item>
 
 <item>
 	<id>47</id>
-	<name>Tomato seeds pack</name>
+	<name>番茄种子包</name>
 </item>
 
 <item>
 	<id>48</id>
-	<name>Pepper seeds pack</name>
+	<name>甜椒种子包</name>
 </item>
 
 <item>
 	<id>49</id>
-	<name>Newspaper</name>
+	<name>报纸</name>
 </item>
 
 <item>
 	<id>50</id>
-	<name>Wood piles</name>
+	<name>原木</name>
 </item>
 
 <item>
 	<id>51</id>
-	<name>Crafted arrows</name>
+	<name>自制箭矢</name>
 </item>
 
 <item>
 	<id>52</id>
-	<name>Composite arrow</name>
+	<name>复合箭矢</name>
 </item>
 
 <item>
 	<id>53</id>
-	<name>Gasoline</name>
+	<name>汽油</name>
 </item>
 
 <item>
 	<id>54</id>
-	<name>Water bottle</name>
+	<name>水瓶</name>
 </item>
 
 <item>
 	<id>55</id>
-	<name>Canteen</name>
+	<name>水壶</name>
 </item>
 
 <item>
 	<id>56</id>
-	<name>Landmine</name>
+	<name>地雷</name>
 </item>
 
 <item>
 	<id>57</id>
-	<name>Bear trap</name>
+	<name>捕兽夹</name>
 </item>
 
 <item>
 	<id>58</id>
-	<name>.22lr ammo</name>
+	<name>.22lr弹药</name>
 </item>
 
 <item>
 	<id>59</id>
-	<name>Car toolbox</name>
+	<name>汽修工具箱</name>
 </item>
 
 <item>
 	<id>60</id>
-	<name>Raw steak</name>
+	<name>生鹿肉</name>
 </item>
 
 <item>
 	<id>61</id>
-	<name>Cooked steak</name>
+	<name>烤鹿肉</name>
 </item>
 
 <item>
 	<id>62</id>
-	<name>Nuko Cola</name>
+	<name>核子可乐</name>
 </item>
 
 <item>
 	<id>68</id>
-	<name>Zucchini Seeds</name>
+	<name>西葫芦种子包</name>
 </item>
 
 <item>
 	<id>69</id>
-	<name>9mm ammo</name>
+	<name>9mm弹药</name>
 </item>
 
 <item>
 	<id>70</id>
-	<name>Barbed wire</name>
+	<name>铁丝网</name>
 </item>
 
 <item>
 	<id>71</id>
-	<name>Rabbit meat</name>
+	<name>生兔肉</name>
 </item>
 
 <item>
 	<id>72</id>
-	<name>Cooked rabbit meat</name>
+	<name>烤兔肉</name>
 </item>
 
 <item>
 	<id>73</id>
-	<name>Cloudberry</name>
+	<name>云莓</name>
 </item>
 
 <item>
 	<id>74</id>
-	<name>Bilberry</name>
+	<name>越橘</name>
 </item>
 
 <item>
 	<id>75</id>
-	<name>Radio</name>
+	<name>无线电</name>
 </item>
 
 <item>
 	<id>76</id>
-	<name>RDS scope</name>
+	<name>RDS瞄准镜</name>
 </item>
 
 <item>
 	<id>77</id>
-	<name>PU scope</name>
+	<name>PU瞄准镜</name>
 </item>
 
 <item>
 	<id>78</id>
-	<name>PSO-1 scope</name>
+	<name>PSO-1瞄准镜</name>
 </item>
 
 <item>
 	<id>79</id>
-	<name>ACOG scope</name>
+	<name>ACOG瞄准镜</name>
 </item>
 
 <item>
 	<id>80</id>
-	<name>Silencer 5.45</name>
+	<name>5.45消音器</name>
 </item>
 
 <item>
 	<id>81</id>
-	<name>Silencer 5.56</name>
+	<name>5.56消音器</name>
 </item>
 
 <item>
 	<id>82</id>
-	<name>Hacksaw</name>
+	<name>钢锯</name>
 </item>
 
 <item>
 	<id>83</id>
-	<name>Bandolier</name>
+	<name>子弹带</name>
 </item>
 
-<!--WEAPONS-->
+<!--枪械-->
 
 <item>
 	<id>151</id>
-	<name>FNX pistol</name>
+	<name>FNX</name>
 </item>
 
 <item>
 	<id>152</id>
-	<name>Colt 1911</name>
+	<name>柯尔特1911</name>
 </item>
 
 <item>
 	<id>153</id>
-	<name>Magnum</name>
+	<name>马格南</name>
 </item>
 
 <item>
@@ -419,12 +423,12 @@
 
 <item>
 	<id>155</id>
-	<name>Remington shotgun</name>
+	<name>雷明顿</name>
 </item>
 
 <item>
 	<id>156</id>
-	<name>Mosin Nagant</name>
+	<name>莫辛纳甘</name>
 </item>
 
 <item>
@@ -434,7 +438,7 @@
 
 <item>
 	<id>158</id>
-	<name>M4 carbine</name>
+	<name>M4</name>
 </item>
 
 <item>
@@ -459,17 +463,17 @@
 
 <item>
 	<id>163</id>
-	<name>Improvised bow</name>
+	<name>弓</name>
 </item>
 
 <item>
 	<id>164</id>
-	<name>Crossbow</name>
+	<name>弩</name>
 </item>
 
 <item>
 	<id>165</id>
-	<name>Amphibia pistol</name>
+	<name>两栖手枪</name>
 </item>
 
 <item>
@@ -479,7 +483,7 @@
 
 <item>
 	<id>167</id>
-	<name>Repeater</name>
+	<name>亨利步枪</name>
 </item>
 
 <item>
@@ -494,17 +498,17 @@
 
 <item>
 	<id>170</id>
-	<name>Glock</name>
+	<name>格洛克</name>
 </item>
 
 <item>
 	<id>171</id>
-	<name>Sawed-off Izh-43</name>
+	<name>锯短的IZH-43</name>
 </item>
 
 <item>
 	<id>172</id>
-	<name>Sawed-off Mosin</name>
+	<name>锯短的莫辛纳甘</name>
 </item>
 
 <item>
@@ -524,416 +528,417 @@
 
 <item>
 	<id>176</id>
-	<name>Engraved Colt</name>
+	<name>银雕柯尔特</name>
 </item>
 
 
-<!--Melees-->
+<!--近战武器-->
 
 <item>
 	<id>200</id>
-	<name>Pipewrench</name>
+	<name>管扳钳</name>
 </item>
 
 <item>
 	<id>201</id>
-	<name>Shovel</name>
+	<name>铲子</name>
 </item>
 
 <item>
 	<id>202</id>
-	<name>Hatchet</name>
+	<name>短柄斧</name>
 </item>
 
 <item>
 	<id>203</id>
-	<name>Baseball bat</name>
+	<name>棒球棍</name>
 </item>
 
 <item>
 	<id>204</id>
-	<name>Fire axe</name>
+	<name>消防斧</name>
 </item>
 
 <item>
 	<id>205</id>
-	<name>Crowbar</name>
+	<name>撬棍</name>
 </item>
 
 <item>
 	<id>206</id>
-	<name>Pickaxe</name>
+	<name>铁镐</name>
 </item>
 
 <item>
 	<id>207</id>
-	<name>Pitchfork</name>
+	<name>干草叉</name>
 </item>
 
 <item>
 	<id>208</id>
-	<name>Sledgehammer</name>
+	<name>长柄大锤</name>
 </item>
 
 <item>
 	<id>209</id>
-	<name>Sword</name>
+	<name>剑</name>
 </item>
 
 <item>
 	<id>210</id>
-	<name>Pan</name>
+	<name>平底锅</name>
 </item>
-<!--Helmets-->
+<!--头盔-->
 
 <item>
 	<id>250</id>
-	<name>Gasmask</name>
+	<name>防毒面具</name>
 </item>
 
 <item>
 	<id>251</id>
-	<name>Army helmet</name>
+	<name>军用头盔</name>
 </item>
 
 <item>
 	<id>252</id>
-	<name>Moto helmet</name>
+	<name>摩托头盔</name>
 </item>
 
 <item>
 	<id>253</id>
-	<name>Moto helmet</name>
+	<name>摩托头盔</name>
 </item>
 
 <item>
 	<id>254</id>
-	<name>Warm hat</name>
+	<name>保暖帽</name>
 </item>
 
 <item>
 	<id>255</id>
-	<name>Beret</name>
+	<name>贝雷帽</name>
 </item>
 
 <item>
 	<id>256</id>
-	<name>Cap</name>
+	<name>鸭舌帽</name>
 </item>
 
 <item>
 	<id>257</id>
-	<name>Balaclava</name>
+	<name>巴拉克拉瓦帽</name>
 </item>
 
 <item>
 	<id>258</id>
-	<name>Ushanka</name>
+	<name>苏联毛帽</name>
 </item>
 
 <item>
 	<id>259</id>
-	<name>Hard hat</name>
+	<name>安全帽</name>
 </item>
 
 <item>
 	<id>260</id>
-	<name>Headlamp</name>
+	<name>头灯</name>
 </item>
 
 <item>
 	<id>261</id>
-	<name>Cowboy hat</name>
+	<name>牛仔帽</name>
 </item>
 
 <item>
 	<id>262</id>
-	<name>Welding mask</name>
+	<name>电焊面罩</name>
 </item>
 
 <item>
 	<id>263</id>
-	<name>Gorka helmet</name>
+	<name>Gorka头盔</name>
 </item>
 
 <item>
 	<id>264</id>
-	<name>Police hat</name>
+	<name>警帽</name>
 </item>
 
 <item>
 	<id>265</id>
-	<name>NVG</name>
+	<name>夜视仪</name>
 </item>
 
 <item>
 	<id>266</id>
-	<name>Bandana</name>
+	<name>头巾</name>
 </item>
 
 <item>
 	<id>267</id>
-	<name>Helm</name>
+	<name>盔</name>
 </item>
 
-<!--Pants-->
+<!--下装-->
 
 <item>
 	<id>300</id>
-	<name>Jeans</name>
+	<name>牛仔裤</name>
 </item>
 
 <item>
 	<id>301</id>
-	<name>Worker pants</name>
+	<name>工装裤</name>
 </item>
 
 <item>
 	<id>302</id>
-	<name>Tracksuit pants</name>
+	<name>运动裤</name>
 </item>
 
 <item>
 	<id>303</id>
-	<name>Gorka pants</name>
+	<name>Gorka裤</name>
 </item>
 
 <item>
 	<id>304</id>
-	<name>Orel pants</name>
+	<name>奥利尔裤</name>
 </item>
 
 <item>
 	<id>305</id>
-	<name>Paramedic pants</name>
+	<name>伞兵军医裤</name>
 </item>
 
 <item>
 	<id>306</id>
-	<name>Hunter pants</name>
+	<name>狩猎裤</name>
 </item>
 
-<!--Outerwears-->
+<!--上衣-->
 
 <item>
 	<id>350</id>
-	<name>T-shirt</name>
+	<name>T恤</name>
 </item>
 
 <item>
 	<id>351</id>
-	<name>Shirt</name>
+	<name>衬衫</name>
 </item>
 
 <item>
 	<id>352</id>
-	<name>Shirt</name>
+	<name>衬衫</name>
 </item>
 
 <item>
 	<id>353</id>
-	<name>Raincoat</name>
+	<name>雨衣</name>
 </item>
 
 <item>
 	<id>354</id>
-	<name>Jacket</name>
+	<name>夹克</name>
 </item>
 
 <item>
 	<id>355</id>
-	<name>Gorka jacket</name>
+	<name>Gorka夹克</name>
 </item>
 
 <item>
 	<id>356</id>
-	<name>Hoodie</name>
+	<name>连帽衫</name>
 </item>
 
 <item>
 	<id>357</id>
-	<name>Hoodie</name>
+	<name>连帽衫</name>
 </item>
 
 <item>
 	<id>358</id>
-	<name>Cloak</name>
+	<name>斗篷</name>
 </item>
 
 <item>
 	<id>359</id>
-	<name>Paramedic jacket</name>
+	<name>伞兵军医夹克</name>
 </item>
 
 <item>
 	<id>360</id>
-	<name>Orel jacket</name>
+	<name>奥利尔夹克</name>
 </item>
 
 <item>
 	<id>361</id>
-	<name>Tracksuit jacket</name>
+	<name>运动服</name>
 </item>
 
 <item>
 	<id>362</id>
-	<name>Dress</name>
+	<name>连衣裙</name>
 </item>
 
 <item>
 	<id>363</id>
-	<name>Down jacket</name>
+	<name>羽绒服</name>
 </item>
 
 <item>
 	<id>364</id>
-	<name>Hunter jacket</name>
+	<name>狩猎夹克</name>
 </item>
 
 <item>
 	<id>365</id>
-	<name>Sweater</name>
+	<name>毛衣</name>
 </item>
 
-<!--Vests-->
+<!--背心-->
 
 <item>
 	<id>400</id>
-	<name>Bulletproof vest</name>
+	<name>防弹衣</name>
 </item>
 
 <item>
 	<id>401</id>
-	<name>Press vest</name>
+	<name>媒体背心</name>
 </item>
 
 <item>
 	<id>402</id>
-	<name>Assault vest</name>
+	<name>突击背心</name>
 </item>
 
 <item>
 	<id>403</id>
-	<name>High capacity vest</name>
+	<name>高容量背心</name>
 </item>
 
 <item>
 	<id>404</id>
-	<name>Kevlar vest</name>
+	<name>凯夫拉背心</name>
 </item>
 
-<!--Backpacks-->
+<!--背包-->
 
 <item>
 	<id>450</id>
-	<name>Taloon backpack</name>
+	<name>旅行背包</name>
 </item>
 
 <item>
 	<id>451</id>
-	<name>Hunting backpack</name>
+	<name>狩猎背包</name>
 </item>
 
 <item>
 	<id>452</id>
-	<name>Mountain backpack</name>
+	<name>登山包</name>
 </item>
 
 <item>
 	<id>453</id>
-	<name>School backpack</name>
+	<name>书包</name>
 </item>
 
 <item>
 	<id>454</id>
-	<name>Improvised bag</name>
+	<name>简易背包</name>
 </item>
 
 <item>
 	<id>455</id>
-	<name>Improvised backpack</name>
+	<name>加固背包</name>
 </item>
 
 <item>
 	<id>456</id>
-	<name>Civilian tent</name>
+	<name>民用帐篷</name>
 </item>
 
 <item>
 	<id>457</id>
-	<name>Tortilla backpack</name>
+	<name>军用背包</name>
 </item>
 
-<!--Update 1.3.0-->
+
+<!--更新 1.3.0-->
 
 <item>
 	<id>63</id>
-	<name>Energy drink</name>
+	<name>能量饮料</name>
 </item>
 
 <item>
 	<id>85</id>
-	<name>MRE ration</name>
+	<name>军用口粮</name>
 </item>
 
 <item>
 	<id>86</id>
-	<name>Spinning fishing rod</name>
+	<name>卷线钓鱼竿</name>
 </item>
 
 <item>
 	<id>87</id>
-	<name>Basic Fishing rod</name>
+	<name>钓鱼竿</name>
 </item>
 
 <item>
 	<id>88</id>
-	<name>Protector Case</name>
+	<name>保护盒</name>
 </item>
 
 <item>
 	<id>89</id>
-	<name>Magpull</name>
+	<name>快拔弹匣</name>
 </item>
 
 <item>
 	<id>90</id>
-	<name>Choke</name>
+	<name>收束器</name>
 </item>
 
 <item>
 	<id>91</id>
-	<name>Herring</name>
+	<name>鲱鱼</name>
 </item>
 
 <item>
 	<id>92</id>
-	<name>Salmon</name>
+	<name>三文鱼</name>
 </item>
 
 <item>
 	<id>93</id>
-	<name>Ruffe</name>
+	<name>花鲈</name>
 </item>
 
 <item>
 	<id>94</id>
-	<name>Perch</name>
+	<name>鲈鱼</name>
 </item>
 
 <item>
 	<id>95</id>
-	<name>Small fish fillet</name>
+	<name>小块烤鱼</name>
 </item>
 
 <item>
 	<id>96</id>
-	<name>Big fish fillet</name>
+	<name>大块烤鱼</name>
 </item>
 
 <item>
 	<id>97</id>
-	<name>🍄</name>
+	<name>蘑菇</name>
 </item>
 
 <item>
@@ -943,7 +948,7 @@
 
 <item>
 	<id>178</id>
-	<name>Saiga 12k</name>
+	<name>Saiga-12k</name>
 </item>
 
 <item>
@@ -953,34 +958,35 @@
 
 <item>
 	<id>180</id>
-	<name>Mare's Leg</name>
+	<name>锯短的亨利步枪</name>
 </item>
+
 
 <!--Update 1.4.0-->
 
 <item>
 	<id>98</id>
-	<name>Longrange Scope</name>
+	<name>高倍瞄准镜</name>
 </item>
 
 <item>
 	<id>99</id>
-	<name>Claymore</name>
+	<name>阔剑地雷</name>
 </item>
 
 <item>
 	<id>100</id>
-	<name>Ammo 9x18</name>
+	<name>9x18弹药</name>
 </item>
 
 <item>
 	<id>101</id>
-	<name>Ammo 9x39</name>
+	<name>9x39弹药</name>
 </item>
 
 <item>
 	<id>102</id>
-	<name>Molotov</name>
+	<name>燃烧瓶</name>
 </item>
 
 <item>
@@ -1015,28 +1021,30 @@
 
 <item>
 	<id>187</id>
-	<name>Madsen</name>
+	<name>麦德森</name>
 </item>
 
 <item>
 	<id>405</id>
-	<name>Soviet vest</name>
+	<name>苏联背心</name>
 </item>
 
-<!--Update 1.6.0 inventory items-->
+
+<!--更新 1.6.0 物品一览-->
+
 <item>
 	<id>103</id>
-	<name>Flare gun</name>
+	<name>信号枪</name>
 </item>
 
 <item>
 	<id>104</id>
-	<name>.308 Ammo</name>
+	<name>.50弹药</name>
 </item>
 
 <item>
 	<id>105</id>
-	<name>40mm Grenade</name>
+	<name>40毫米榴弹</name>
 </item>
 
 <item>
@@ -1056,603 +1064,783 @@
 
 <item>
 	<id>109</id>
-	<name>IV kit</name>
+	<name>静脉注射器</name>
 </item>
 
 <item>
 	<id>110</id>
-	<name>Sharpening Stone</name>
+	<name>磨刀石</name>
 </item>
 
 <item>
 	<id>111</id>
-	<name>AK Grip</name>
+	<name>AK握把</name>
 </item>
 
 <item>
 	<id>112</id>
-	<name>Rail Grip</name>
+	<name>Rail握把</name>
 </item>
 
 <item>
 	<id>113</id>
-	<name>Map Notes</name>
+	<name>地图标记</name>
 </item>
 
 <item>
 	<id>114</id>
-	<name>Elderberry</name>
+	<name>接骨木浆果</name>
 </item>
 
 <item>
 	<id>115</id>
-	<name>Binoculars</name>
+	<name>双筒望远镜</name>
 </item>
 
 <item>
 	<id>116</id>
-	<name>Scout book</name>
+	<name>课本</name>
 </item>
 
 <item>
 	<id>117</id>
-	<name>Canvas</name>
+	<name>帆布</name>
 </item>
 
 <item>
 	<id>118</id>
-	<name>Adhesive plaster</name>
+	<name>医用胶布</name>
+
 </item>
 
 <item>
 	<id>119</id>
-	<name>Smoke grenade</name>
+	<name>烟雾弹</name>
 </item>
 
 <item>
 	<id>120</id>
-	<name>Cigarettes</name>
+	<name>香烟</name>
 </item>
 
 <item>
 	<id>121</id>
-	<name>Beer</name>
+	<name>啤酒</name>
 </item>
 
 <item>
 	<id>122</id>
-	<name>Epoxy glue</name>
+	<name>环氧腻子</name>
 </item>
 
 <item>
 	<id>123</id>
-	<name>Fertilizer</name>
+	<name>肥料</name>
 </item>
 
 <item>
 	<id>124</id>
-	<name>Laser Sight</name>
+	<name>激光瞄准镜</name>
 </item>
 
 <item>
 	<id>125</id>
-	<name>Lighter</name>
+	<name>打火机</name>
 </item>
 
 <item>
 	<id>126</id>
-	<name>Officer's keycard</name>
+	<name>军官钥匙卡</name>
+	
 </item>
+
 <item>
 	<id>127</id>
-	<name>Weapon case (secondary)</name>
+	<name>副武器武器箱</name>
+	
 </item>
 
 <item>
 	<id>128</id>
-	<name>Weapon case (primary)</name>
+	<name>基础武器箱</name>
+	
 </item>
 
 <item>
 	<id>129</id>
-	<name>Special weapon case</name>
+	<name>特殊武器箱</name>
+	
 </item>
 
 <item>
 	<id>130</id>
-	<name>Silver Ke weapon case</name>
+	<name>银柯武器箱</name>
+	
 </item>
 
 <item>
 	<id>131</id>
-	<name>Remington weapon case</name>
+	<name>消音雷明顿武器箱</name>
+	
 </item>
 
 <item>
 	<id>132</id>
-	<name>Madsen weapon case</name>
+	<name>麦德森武器箱</name>
+	
 </item>
 
 <item>
 	<id>133</id>
-	<name>Professional IV kit</name>
+	<name>专业输血用具</name>
+	
 </item>
 
 <item>
 	<id>134</id>
-	<name>Professional IV kit</name>
+	<name>专业输血用具</name>
+	
 </item>
+
 <item>
 	<id>135</id>
-	<name>Survival bag</name>
+	<name>野外生存组合</name>
+	
 </item>
 
 <item>
 	<id>136</id>
-	<name>Survival bag with a flask</name>
+	<name>野外生存套件</name>
+	
 </item>
 
 <item>
 	<id>137</id>
-	<name>CAT tourniquet</name>
+	<name>CAT止血带</name>
+	
 </item>
 
 <item>
 	<id>138</id>
-	<name>Bag</name>
+	<name>挎包</name>
+	
 </item>
 
 <item>
 	<id>139</id>
-	<name>Raw wolf meat</name>
+	<name>生狼肉</name>
+	
 </item>
 
 <item>
 	<id>140</id>
-	<name>Cooked wolf meat</name>
+	<name>熟狼肉</name>
+	
 </item>
 
 <item>
 	<id>141</id>
-	<name>Deer hide</name>
+	<name>鹿皮</name>
+	
 </item>
 
 <item>
 	<id>142</id>
-	<name>First aid kit (with blood)</name>
+	<name>急救套装（有血）</name>
+	
 </item>
 
 <item>
 	<id>143</id>
-	<name>First aid kit (without blood)</name>
+	<name>急救套装（无血）</name>
+	
 </item>
 
 <item>
 	<id>144</id>
-	<name>Turntable</name>
+	<name>唱片机</name>
+	
 </item>
 
 <item>
 	<id>145</id>
-	<name>Frying pan</name>
+	<name>平底锅</name>
+	
 </item>
 
 <item>
 	<id>146</id>
-	<name>Egg</name>
+	<name>鸡蛋</name>
+	
 </item>
 
 <item>
 	<id>147</id>
-	<name>Fallen Dawn</name>
+	<name>Undertale-OST</name>
+	
 </item>
 
 <item>
 	<id>148</id>
-	<name>Fried eggs</name>
+	<name>煎蛋</name>
+	
 </item>
 
 <item>
 	<id>505</id>
-	<name>Meat platter</name>
+	<name>通用处理肉片</name>
+	
 </item>
 
 <item>
 	<id>506</id>
-	<name>Malt beer</name>
+	<name>麦芽酒</name>
+	
 </item>
 
 <item>
 	<id>507</id>
-	<name>Eggs with tomatoes</name>
+	<name>番茄炒蛋</name>
+	
 </item>
 
 <item>
 	<id>508</id>
 	<name>Never Gonna Give You Up</name>
+	
 </item>
 
 <item>
 	<id>509</id>
-	<name>Chocolate bar</name>
+	<name>巧克力棒</name>
+	
 </item>
 
 <item>
 	<id>510</id>
-	<name>Vodka</name>
+	<name>伏特加</name>
+	
 </item>
 
 <item>
 	<id>511</id>
-	<name>Grizzly first aid kit</name>
+	<name>Grizzly急救包</name>
+	
 </item>
 
 <item>
 	<id>512</id>
-	<name>7.62x39 ammunition</name>
+	<name>7.62x39弹药盒</name>
+	
 </item>
+
 <item>
 	<id>513</id>
-	<name>Weapon case</name>
+	<name>武器收纳箱</name>
+	
 </item>
 
 <item>
 	<id>514</id>
-	<name>Weapon case with Mosin</name>
+	<name>武器收纳箱[莫辛纳甘]</name>
+	
 </item>
 
 <item>
 	<id>520</id>
-	<name>Weapon case with M4</name>
+	<name>武器收纳箱[M4]</name>
 </item>
 
 <item>
 	<id>521</id>
-	<name>Weapon case with IZH</name>
+	<name>武器收纳箱[IZH]</name>
 </item>
 
 <item>
 	<id>522</id>
-	<name>Weapon case with AK-74</name>
+	<name>武器收纳箱[AK-74]</name>
 </item>
 
 <item>
 	<id>523</id>
-	<name>Weapon case with AKM</name>
+	<name>武器收纳箱[AKM]</name>
 </item>
 
 <item>
 	<id>524</id>
-	<name>Weapon case with AKS-74U</name>
+	<name>武器收纳箱[AKS-74U]</name>
 </item>
 
 <item>
 	<id>525</id>
-	<name>Weapon case with SKS</name>
+	<name>武器收纳箱[SKS]</name>
 </item>
 
 <item>
 	<id>526</id>
-	<name>Weapon case with L85</name>
+	<name>武器收纳箱[L85]</name>
 </item>
 
 <item>
 	<id>527</id>
-	<name>Weapon case with Remington</name>
+	<name>武器收纳箱[雷明顿]</name>
 </item>
 
 <item>
 	<id>528</id>
-	<name>Weapon case with Sporter 22</name>
+	<name>武器收纳箱[Sporter 22]</name>
 </item>
 
 <item>
 	<id>529</id>
-	<name>Weapon case with Henry Rifle</name>
+	<name>武器收纳箱[亨利步枪]</name>
 </item>
 
 <item>
 	<id>530</id>
-	<name>Weapon case with SVD</name>
+	<name>武器收纳箱[SVD]</name>
 </item>
 
 <item>
 	<id>531</id>
-	<name>Weapon case with MP5K</name>
+	<name>武器收纳箱[MP5K]</name>
 </item>
 
 <item>
 	<id>532</id>
-	<name>Weapon case with UMP-45</name>
+	<name>武器收纳箱[UMP-45]</name>
 </item>
 
 <item>
 	<id>533</id>
-	<name>Weapon case with RPK</name>
+	<name>武器收纳箱[RPK]</name>
 </item>
 
 <item>
 	<id>534</id>
-	<name>Weapon case with Fn-cal</name>
+	<name>武器收纳箱[Fn-cal]</name>
 </item>
 
 <item>
 	<id>535</id>
-	<name>Weapon case with S12k</name>
+	<name>武器收纳箱[S12k]</name>
 </item>
 
 <item>
 	<id>536</id>
-	<name>Weapon case with AUG</name>
+	<name>武器收纳箱[AUG]</name>
 </item>
 
 <item>
 	<id>537</id>
-	<name>Weapon case with Bizon</name>
+	<name>武器收纳箱[野牛]</name>
 </item>
 
 <item>
 	<id>538</id>
-	<name>Weapon case with Groza</name>
+	<name>武器收纳箱[Groza]</name>
 </item>
 
 <item>
 	<id>539</id>
-	<name>Weapon case with VSS</name>
+	<name>武器收纳箱[VSS]</name>
 </item>
 
 <item>
 	<id>540</id>
-	<name>Weapon case with SV-98</name>
+	<name>武器收纳箱[SV-98]</name>
 </item>
 
 <item>
 	<id>541</id>
-	<name>Weapon case with An-94</name>
+	<name>武器收纳箱[An-94]</name>
 </item>
 
 <item>
 	<id>542</id>
-	<name>Weapon case with M16a2</name>
+	<name>武器收纳箱[M16a2]</name>
 </item>
 
 <item>
 	<id>543</id>
-	<name>Weapon case with Vector</name>
+	<name>武器收纳箱[Vector(.45)]</name>
 </item>
+
 <item>
 	<id>544</id>
-	<name>Box of 5.56x45 ammo</name>
+	<name>5.56x45弹药盒</name>
 </item>
 
 <item>
 	<id>545</id>
-	<name>Box of 5.45x39 ammo</name>
+	<name>5.45x39弹药盒</name>
 </item>
 
 <item>
 	<id>546</id>
-	<name>Box of .357 ammo</name>
+	<name>.357弹药盒</name>
 </item>
 
 <item>
 	<id>547</id>
-	<name>Box of 9x39 ammo</name>
+	<name>9x39弹药盒</name>
 </item>
 
 <item>
 	<id>548</id>
-	<name>Box of .45ACP ammo</name>
+	<name>.45ACP弹药盒</name>
 </item>
 
 <item>
 	<id>549</id>
-	<name>Box of 9x18 ammo</name>
+	<name>9x18弹药盒</name>
 </item>
 
 <item>
 	<id>550</id>
-	<name>Box of 9mm ammo</name>
+	<name>9mm弹药盒</name>
 </item>
 
 <item>
 	<id>566</id>
-	<name>Box of .22lr ammo</name>
+	<name>.22lr弹药盒</name>
 </item>
 
 <item>
 	<id>567</id>
-	<name>Box of 12cal ammo</name>
+	<name>12cal弹药盒</name>
 </item>
 
 <item>
 	<id>568</id>
-	<name>Box of 7.62x54R ammo</name>
+	<name>7.62x54R弹药盒</name>
 </item>
 
 <item>
 	<id>569</id>
-	<name>12.7x108 ammunition</name>
+	<name>12.7x108弹药</name>
 </item>
 
 <item>
 	<id>570</id>
-	<name>Weapon case with KSVK 12.7</name>
+	<name>武器收纳箱[KSVK 12.7]</name>
 </item>
 
 <item>
 	<id>571</id>
-	<name>《Guide #1》</name>
+	<name>《服装保养手册》（帽盔）</name>
 </item>
 
 <item>
 	<id>572</id>
-	<name>《Guide #2》</name>
+	<name>《服装保养手册》（背心）</name>
 </item>
 
 <item>
 	<id>573</id>
-	<name>《Guide #3》</name>
+	<name>《服装保养手册》（衣裤）</name>
 </item>
 
 <item>
 	<id>574</id>
-	<name>《Guide #4》</name>
+	<name>《服装保养手册》（背包）</name>
 </item>
 
 <item>
 	<id>575</id>
-	<name>《Guide #5》</name>
+	<name>《外伤处理》</name>
 </item>
 
 <item>
 	<id>576</id>
-	<name>《Guide #6》</name>
+	<name>《医疗用品说明书》</name>
 </item>
 
 <item>
 	<id>577</id>
-	<name>Attachable Module</name>
+	<name>插件</name>
 </item>
 
 <item>
 	<id>578</id>
-	<name>《Guide #7》</name>
+	<name>《肥料处理与使用》</name>
 </item>
 
 <item>
 	<id>579</id>
-	<name>《Guide #8》</name>
+	<name>《农具使用说明》</name>
 </item>
+
 <item>
 	<id>580</id>
-	<name>Sewing Kit "Tailor"</name>
+	<name>"裁缝匠"</name>
 </item>
 
 <item>
 	<id>581</id>
-	<name>Patch</name>
+	<name>补丁</name>
 </item>
 
 <item>
 	<id>582</id>
-	<name>Meat with Pepper</name>
+	<name>青椒炒肉</name>
 </item>
 
 <item>
 	<id>583</id>
-	<name>Military Radio</name>
+	<name>危险讯号</name>
 </item>
 
 <item>
 	<id>584</id>
-	<name>Military Radio</name>
+	<name>增援讯号</name>
 </item>
 
 <item>
 	<id>585</id>
-	<name>Military Radio</name>
+	<name>补给讯号</name>
 </item>
 
 <item>
 	<id>586</id>
-	<name>Military Radio</name>
+	<name>歼灭讯号</name>
 </item>
 
 <item>
 	<id>587</id>
-	<name>Potato</name>
+	<name>土豆</name>
 </item>
 
 <item>
 	<id>588</id>
-	<name>Carrot</name>
+	<name>胡萝卜</name>
 </item>
 
 <item>
 	<id>589</id>
-	<name>Time Regulator</name>
+	<name>时间调节器</name>
 </item>
 
 <item>
 	<id>590</id>
-	<name>Ruler</name>
+	<name>尺</name>
 </item>
 
 <item>
 	<id>591</id>
-	<name>Fluorescent Ring</name>
+	<name>荧光环</name>
 </item>
 
 <item>
 	<id>592</id>
-	<name>Grenadier's Belt</name>
+	<name>榴弹兵腰带</name>
 </item>
 
 <item>
 	<id>593</id>
-	<name>AK Handle + Laser</name>
+	<name>AK握把+激光</name>
 </item>
 
 <item>
 	<id>594</id>
-	<name>NATO Handle + Laser</name>
+	<name>Rail握把+激光</name>
 </item>
 
 <item>
 	<id>595</id>
-	<name>Pet cage</name>
+	<name>宠物笼</name>
 </item>
 
 <item>
 	<id>596</id>
-	<name>«Hound training program»</name>
+	<name>《猎犬训练方案》</name>
 </item>
 
 <item>
 	<id>597</id>
-	<name>«Care and feeding»</name>
+	<name>《修勾喂养技巧》</name>
 </item>
 
 <item>
 	<id>598</id>
-	<name>Holographic sight</name>
+	<name>全息瞄准镜</name>
 </item>
 
 <item>
 	<id>599</id>
-	<name>«Hunting Weekly - Wolf»</name>
+	<name>《狩猎周刊》狼</name>
 </item>
 
 <item>
 	<id>600</id>
-	<name>«Hunting Weekly - Deer»</name>
+	<name>《狩猎周刊》鹿</name>
 </item>
 
 <item>
 	<id>601</id>
-	<name>«Hunting Weekly - Rabbit»</name>
+	<name>《狩猎周刊》兔</name>
 </item>
 
 <item>
 	<id>602</id>
-	<name>«Hunting Weekly - Zombie»</name>
+	<name>《狩猎周刊》僵尸</name>
 </item>
 
-<!--Update 1.5.0 gear and weapons-->
+<item>
+	<id>603</id>
+	<name>碘</name>
+</item>
+
+<item>
+	<id>604</id>
+	<name>AI-2急救组合</name>
+</item>
+
+<item>
+	<id>605</id>
+	<name>普鲁士蓝片</name>
+</item>
+
+<item>
+	<id>606</id>
+	<name>.308弹药</name>
+</item>
+
+<item>
+	<id>607</id>
+	<name>《辐射泄漏区》</name>
+</item>
+
+<item>
+	<id>608</id>
+	<name>5.8×42mm弹药</name>
+</item>
+
+<item>
+	<id>609</id>
+	<name>.308弹药盒</name>
+</item>
+
+<item>
+	<id>610</id>
+	<name>5.8×42弹药盒</name>
+</item>
+
+<item>
+	<id>611</id>
+	<name>Terraria-OST</name>
+</item>
+
+<item>
+	<id>612</id>
+	<name>Minecraft-OST</name>
+</item>
+
+<item>
+	<id>613</id>
+	<name>武器收纳箱[M249]</name>
+</item>
+
+<item>
+	<id>614</id>
+	<name>武器收纳箱[PKM]</name>
+</item>
+
+<item>
+	<id>615</id>
+	<name>武器收纳箱[DP-12]</name>
+</item>
+
+<item>
+	<id>616</id>
+	<name>武器收纳箱[三管枪]</name>
+</item>
+
+<item>
+	<id>617</id>
+	<name>武器收纳箱[M70]</name>
+</item>
+
+<item>
+	<id>618</id>
+	<name>武器收纳箱[Blaze]</name>
+</item>
+
+<item>
+	<id>619</id>
+	<name>武器收纳箱[G3]</name>
+</item>
+
+<item>
+	<id>620</id>
+	<name>武器收纳箱[Mini14]</name>
+</item>
+
+<item>
+	<id>621</id>
+	<name>武器收纳箱[QBZ-95]</name>
+</item>
+
+<item>
+	<id>622</id>
+	<name>武器收纳箱[QBZ-191]</name>
+</item>
+
+<item>
+	<id>623</id>
+	<name>武器收纳箱[QBZ-191]</name>
+</item>
+
+<item>
+	<id>624</id>
+	<name>武器收纳箱[Vector(9mm)]</name>
+</item>
+
+<item>
+	<id>625</id>
+	<name>武器收纳箱[Type81]</name>
+</item>
+
+<item>
+	<id>626</id>
+	<name>武器收纳箱[Type81]</name>
+</item>
+
+<item>
+	<id>627</id>
+	<name>武器收纳箱[Famas]</name>
+</item>
+
+<item>
+	<id>628</id>
+	<name>武器收纳箱[AEK971]</name>
+</item>
+
+<item>
+	<id>629</id>
+	<name>武器收纳箱[DVL-10]</name>
+</item>
+
+<item>
+	<id>630</id>
+	<name>蛋糕</name>
+</item>
+
+<!--更新 1.5.0 道具和武器-->
+
 <item>
 	<id>366</id>
-	<name>Awesome Hoodie</name>
+	<name>很酷的连帽衫</name>
 </item>
 
 <item>
 	<id>406</id>
-	<name>Apron</name>
+	<name>围裙</name>
 </item>
 
 <item>
 	<id>458</id>
-	<name>Crossbody bag</name>
+	<name>腰包</name>
 </item>
 
 <item>
@@ -1662,12 +1850,12 @@
 
 <item>
 	<id>189</id>
-	<name>Desert Eagle</name>
+	<name>沙漠之鹰</name>
 </item>
 
 <item>
 	<id>190</id>
-	<name>Silenced Remington</name>
+	<name>消音雷明顿</name>
 </item>
 
 <item>
@@ -1677,7 +1865,7 @@
 
 <item>
 	<id>192</id>
-	<name>Vector</name>
+	<name>Vector(.45)</name>
 </item>
 
 <item>
@@ -1701,32 +1889,110 @@
 </item>
 
 <item>
+	<id>222</id>
+	<name>三管枪</name>
+</item>
+
+<item>
+	<id>223</id>
+	<name>M70</name>
+</item>
+
+<item>
+	<id>224</id>
+	<name>Blaze</name>
+</item>
+
+<item>
+	<id>225</id>
+	<name>G3</name>
+</item>
+
+<item>
+	<id>226</id>
+	<name>Mini14</name>
+</item>
+
+<item>
+	<id>227</id>
+	<name>QBZ-95</name>
+</item>
+
+<item>
+	<id>228</id>
+	<name>QBZ-191</name>
+</item>
+
+<item>
+	<id>229</id>
+	<name>QBZ-191</name>
+</item>
+
+<item>
+	<id>230</id>
+	<name>Vector(9mm)</name>
+</item>
+
+<item>
+	<id>231</id>
+	<name>Type81</name>
+</item>
+
+<item>
+	<id>232</id>
+	<name>Type81</name>
+</item>
+
+<item>
+	<id>233</id>
+	<name>Famas</name>
+</item>
+
+<item>
+	<id>234</id>
+	<name>AEK971</name>
+</item>
+
+<item>
+	<id>235</id>
+	<name>虔诚</name>
+</item>
+
+<item>
+	<id>236</id>
+	<name>DVL-10</name>
+</item>
+
+<item>
+	<id>237</id>
+	<name>锯短的Blaze</name>
+</item>
+
+<item>
+	<id>238</id>
+	<name>长角</name>
+</item>
+
+<item>
+	<id>239</id>
+	<name>APS</name>
+</item>
+
+<item>
 	<id>211</id>
-	<name>Katana</name>
+	<name>武士刀</name>
+</item>
+
+<item>
+	<id>212</id>
+	<name>锄头</name>
 </item>
 
 <item>
 	<id>268</id>
-	<name>Pilot Helmet</name>
+	<name>飞行员头盔</name>
 </item>
 
 <item>
 	<id>269</id>
-	<name>Helmet with NVG</name>
-</item>
-<item>
-	<id>580</id>
-	<name>Sewing Kit "Tailor"</name>
-</item>
-
-<item>
-	<id>581</id>
-	<name>Patch</name>
-</item>
-
-<item>
-	<id>582</id>
-	<name>Meat with Peppers</name>
-</item>
-
-</list>
+	<name>夜视仪头盔</name>

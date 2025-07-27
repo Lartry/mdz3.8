@@ -2,697 +2,801 @@
 
 <list>
 
-<!--Player phrases-->
+<!--角色反馈-->
 
 <text>
 	<id>1</id>
-	<name>I'm no longer bleeding.</name>
+	<name>我不再流血了</name>
 </text>
 
 <text>
 	<id>2</id>
-	<name>I feel healthy.</name>
+	<name>我感觉很健康</name>
 </text>
 
 <text>
 	<id>3</id>
-	<name>I can feel blood dripping.</name>
+	<name>我可以感觉到正在流血</name>
 </text>
 
 <text>
 	<id>4</id>
-	<name>I'm freezing.</name>
+	<name>我感觉很冷</name>
 </text>
 
 <text>
 	<id>5</id>
-	<name>I'm dying of starvation.</name>
+	<name>我快饿死了</name>
 </text>
 
 <text>
 	<id>6</id>
-	<name>I'm dying of dehydration.</name>
+	<name>我快渴死了</name>
 </text>
 
 <text>
 	<id>7</id>
-	<name>I found something in this trunk.</name>
+	<name>我在这个后备箱里找到了一些东西</name>
 </text>
 
 <text>
 	<id>8</id>
-	<name>There is nothing in this trunk.</name>
+	<name>这个后备箱是空的</name>
 </text>
 
-<!--Player phrase: when no ammo for reloading-->
+<!--当没有弹药时的角色反馈-->
 <text>
 	<id>9</id>
-	<name>No more ammo.</name>
+	<name>没有弹药了</name>
 </text>
-<!--Player phrase: when ranged weapon is empited-->
+<!--当远程武器弹药耗尽时的角色反馈-->
 <text>
 	<id>10</id>
-	<name>Mag empty.</name>
+	<name>弹匣空了</name>
 </text>
 
 <text>
 	<id>11</id>
-	<name>Weapon ruined!</name>
+	<name>武器坏了! </name>
 </text>
 
 <text>
 	<id>12</id>
-	<name>There's no water in this pump.</name>
+	<name>这个水泵里没有水了</name>
 </text>
 
 <text>
 	<id>13</id>
-	<name>I don't want to drink.</name>
+	<name>我还不渴</name>
 </text>
 
 <text>
 	<id>14</id>
-	<name>I've eaten a raw steak.</name>
+	<name>我吃掉了一块生肉</name>
 </text>
 
 <text>
 	<id>15</id>
-	<name>I need a water pump for that.</name>
+	<name>我需要水泵来装水</name>
 </text>
 
 <text>
 	<id>16</id>
-	<name>I've filled it with a waterpump.</name>
+	<name>我已经用水泵装满了水</name>
 </text>
 
 <text>
 	<id>17</id>
-	<name>I've eaten </name>
+	<name>我吃掉了</name>
 </text>
 
 <text>
 	<id>18</id>
-	<name>I've drunk </name>
+	<name>我喝掉了</name>
 </text>
 
 <text>
 	<id>19</id>
-	<name>I've used </name>
+	<name>我用掉了</name>
 </text>
 
 <text>
 	<id>32</id>
-	<name>Weapon fully loaded.</name>
+	<name>武器已装满弹药</name>
 </text>
 
 <text>
 	<id>33</id>
-	<name>Ammo loaded.</name>
+	<name>弹药已装填</name>
 </text>
 
-<!--Player phrase: when trying to load wrong ammo-->
+<!--尝试装载错误的弹药或配件时的角色反馈-->
 <text>
 	<id>34</id>
-	<name>It doesn't fit there.</name>
+	<name>不适配这把武器</name>
 </text>
 
 <text>
 	<id>35</id>
-	<name>I've applied bandage.</name>
+	<name>我用掉了绷带</name>
 </text>
 
 <text>
 	<id>36</id>
-	<name>I'm not bleeding.</name>
+	<name>我已经止血了</name>
 </text>
 
 <text>
 	<id>37</id>
-	<name>Blood transfusion completed.</name>
+	<name>输血完成</name>
 </text>
 
-<!--Player phrase: when trying to load battery to nvg/headlamp-->
+<!--尝试给夜视仪/头灯装电池时的角色反馈-->
 <text>
 	<id>38</id>
-	<name>Already charged.</name>
+	<name>电池已安装</name>
 </text>
 
 <text>
 	<id>39</id>
-	<name>I need a headlamp or NVG.</name>
+	<name>我需要一个夜视仪或者头灯</name>
 </text>
 
 <text>
 	<id>40</id>
-	<name>I need a fireplace kit on the ground to ignite.</name>
+	<name>我需要放置好的营火套件</name>
 </text>
 
 <text>
 	<id>41</id>
-	<name>I've drunk whiskey.</name>
+	<name>我喝掉了威士忌</name>
 </text>
 
 <text>
 	<id>42</id>
-	<name>Saline transfusion complete.</name>
+	<name>生理盐水输液完成</name>
 </text>
 
 <text>
 	<id>43</id>
-	<name>I've eaten vitamins.</name>
+	<name>我服用了维生素</name>
 </text>
 
 <text>
 	<id>44</id>
-	<name>Weapon ruined.</name>
+	<name>武器已损坏</name>
 </text>
 
 <text>
 	<id>45</id>
-	<name>Weapon cleaned.</name>
+	<name>武器清洁完成</name>
 </text>
 
 <text>
 	<id>46</id>
-	<name>I've eaten tetracycline.</name>
+	<name>我服用了四环素</name>
 </text>
 
 <text>
 	<id>47</id>
-	<name>Vehicle fueled.</name>
+	<name>车已经加满油了</name>
 </text>
 
 <text>
 	<id>48</id>
-	<name>I need a drivable vehicle for that.</name>
+	<name>我需要一辆能开的车</name>
 </text>
 
 <text>
 	<id>49</id>
-	<name>Bottle empty.</name>
+	<name>水瓶空了</name>
 </text>
 
 <text>
 	<id>50</id>
-	<name>I've drunk from the water bottle.</name>
+	<name>我喝了水瓶里的水</name>
 </text>
 
 <text>
 	<id>51</id>
-	<name>Canteen empty.</name>
+	<name>水壶空了</name>
 </text>
 
 <text>
 	<id>52</id>
-	<name>I've drunk from the canteen.</name>
+	<name>我喝了水壶里的水</name>
 </text>
 
 <text>
 	<id>53</id>
-	<name>Landmine planted.</name>
+	<name>已部署地雷</name>
 </text>
 
 <text>
 	<id>54</id>
-	<name>Beartrap planted.</name>
+	<name>已部署捕兽夹</name>
 </text>
 
 <text>
 	<id>55</id>
-	<name>Vehicle repaired.</name>
+	<name>车已经修好了</name>
 </text>
 
 <text>
 	<id>56</id>
-	<name>I've cooked a steak.</name>
+	<name>我烤了一块肉</name>
 </text>
 
 <text>
 	<id>57</id>
-	<name>I need an active fireplace for that.</name>
+	<name>我需要生火</name>
 </text>
 
 <text>
 	<id>58</id>
-	<name>I've eaten cooked steak.</name>
+	<name>我吃了烤肉</name>
 </text>
 
 <text>
 	<id>59</id>
-	<name>I've drunk a Nuko Cola. Feels great!</name>
+	<name>我喝了核子可乐, 感觉很赞! </name>
 </text>
 
 <text>
 	<id>60</id>
-	<name>Prey skinned.</name>
+	<name>剥皮完成</name>
 </text>
 
 <text>
 	<id>61</id>
-	<name>Nothing to flay.</name>
+	<name>没有能剥皮的猎物</name>
 </text>
 
 <text>
 	<id>62</id>
-	<name>No free slots.</name>
+	<name>没有空间了</name>
 </text>
 
 <text>
 	<id>63</id>
-	<name>Knife ruined.</name>
+	<name>刀坏了</name>
 </text>
 
 <text>
 	<id>64</id>
-	<name>I need more wooden sticks for that.</name>
+	<name>我需要更多木棍</name>
 </text>
 
 <text>
 	<id>65</id>
-	<name>Headlamp ruined.</name>
+	<name>头灯坏了</name>
 </text>
 
 <text>
 	<id>66</id>
-	<name>NVG ruined.</name>
+	<name>夜视仪坏了</name>
 </text>
 
 <text>
 	<id>67</id>
-	<name>I've drunk Kvas.</name>
+	<name>我喝掉了淡啤酒</name>
 </text>
 
 <text>
 	<id>68</id>
-	<name>It requires a pickaxe, pitchfork or shovel.</name>
+	<name>需要铁镐、干草叉或铲子</name>
 </text>
 
 <text>
 	<id>69</id>
-	<name>Not possible to plant here.</name>
+	<name>不能在这里种植</name>
 </text>
 
 <text>
 	<id>70</id>
-	<name>Planted.</name>
+	<name>已种植</name>
 </text>
 
 <text>
 	<id>71</id>
-	<name>Block</name>
+	<name>块</name>
 </text>
 
 <text>
 	<id>72</id>
-	<name>I need a knife to flay prey.</name>
+	<name>我需要一把刀来剥皮</name>
 </text>
 
-<!-- When trying to switch to firearm and you dont have any  -->
+<!--但你尝试切枪但没有武器时-->
 <text>
 	<id>73</id>
-	<name>I have no ranged weapon.</name>
+	<name>我没有远程武器</name>
 </text>
 
 <text>
 	<id>74</id>
-	<name>Tap where to throw the flare.</name>
+	<name>点击扔出信号弹</name>
 </text>
 
 <text>
 	<id>75</id>
-	<name>Tap where to throw the grenade.</name>
+	<name>点击扔出</name>
 </text>
 
 <text>
 	<id>76</id>
-	<name>It's already full.</name>
+	<name>已装满</name>
 </text>
 
 <text>
 	<id>77</id>
-	<name>I've drunk from the water pump.</name>
+	<name>我喝了水泵里的水</name>
 </text>
 
 <text>
 	<id>78</id>
-	<name>I want to eat something.</name>
+	<name>我想吃点东西</name>
 </text>
 
 <text>
 	<id>79</id>
-	<name>I want to drink something.</name>
+	<name>我想喝点东西</name>
 </text>
 
 <text>
 	<id>80</id>
-	<name>It's pretty cold.</name>
+	<name>我真的很冷</name>
 </text>
 
 <text>
 	<id>81</id>
-	<name>I'm cooling off.</name>
+	<name>我要冻死了</name>
 </text>
 
 <text>
 	<id>82</id>
-	<name>I'm warming up.</name>
+	<name>我感觉暖和起来了</name>
 </text>
 
 <text>
 	<id>83</id>
-	<name>I need more battery charge.</name>
+	<name>我需要电池</name>
 </text>
 
 <text>
 	<id>84</id>
-	<name>Looks like there are no military crashes nearby.</name>
+	<name>看起来附近没有遭遇事故的军用载具</name>
 </text>
 
 <text>
 	<id>85</id>
-	<name>Looks like a military crash site is nearby.</name>
+	<name>附近好像有一个遭遇事故的军用载具</name>
 </text>
 
-<!-- Friend bots phrase: on health lower than 50%  -->
+<!--生命低于50%时的友好幸存者反馈-->
 <text>
 	<id>100</id>
-	<name>Damn, I'm seriously wounded.</name>
+	<name>妈的, 我伤的很重</name>
 </text>
 
-<!-- Friend bots phrases: when player get into house, bot starts patroling entrance  -->
+<!--当角色进入建筑时开始放哨的友好幸存者反馈-->
 <text>
 	<id>101</id>
-	<name>Ok, I'm on the watch.</name>
+	<name>好的, 我帮你放哨</name>
 </text>
 
 <text>
 	<id>102</id>
-	<name>I will cover while you loot.</name>
+	<name>你搜寻物资的时候我会掩护你</name>
 </text>
 
-<!-- Friend bots phrase: when player gets on firing line -->
+<!--当角色进入火力范围时的友好幸存者反馈-->
 <text>
 	<id>103</id>
-	<name>You're blocking the target!</name>
+	<name>你挡住我瞄准了! </name>
 </text>
 
-<!-- Friend bots phrase: on health lower than 50%  -->
+<!--生命高于50%时的友好幸存者反馈-->
 <text>
 	<id>104</id>
-	<name>Hey! Let's team up!</name>
+	<name>嘿! 一起走吧! </name>
 </text>
 
-<!-- Enemy Melee bot phrases on getting hit from firearm-->
+<!--被子弹击中的敌对近战幸存者反馈-->
 <text>
 	<id>105</id>
-	<name>Unfair!</name>
+	<name>这不公平! </name>
 </text>
 
 <text>
 	<id>106</id>
-	<name>Damn, he has a gun!</name>
+	<name>妈的, 他有枪! </name>
 </text>
 
 <text>
 	<id>107</id>
-	<name>Shit!</name>
+	<name>操! </name>
 </text>
 
-<!-- Enemy Bot with firearm when spots player -->
+<!--发现角色的敌对持枪幸存者反馈-->
 <text>
 	<id>108</id>
-	<name>Get over here!</name>
+	<name>来啊! </name>
 </text>
 
 <text>
 	<id>109</id>
-	<name>Eat this!</name>
+	<name>吃枪子吧! </name>
 </text>
 
 <text>
 	<id>110</id>
-	<name>I see you!</name>
+	<name>我看到你了! </name>
 </text>
 
 <text>
 	<id>111</id>
-	<name>I have nothing for exchange. Sorry, ask someone else.</name>
+	<name>到这里来！</name>
 </text>
 
 <text>
 	<id>112</id>
-	<name>This motherfucker here!</name>
+	<name>他在这！</name>
 </text>
 
-<!-- Additional player phrases -->
+
+
+<!--幸存者反馈-->
 
 <text>
 	<id>125</id>
-	<name>I’m friendly.</name>
+	<name>我没有恶意</name>
 </text>
 
 <text>
 	<id>126</id>
-	<name>Good.</name>
+	<name>好的</name>
 </text>
 
 <text>
 	<id>127</id>
-	<name>Thanks for repairing the boat for us.</name>
+	<name>感谢你帮忙修船</name>
 </text>
 
-<!-- Update 1.2.0 addings -->
+<!--更新 1.2.0 新增-->
 
 <text>
 	<id>86</id>
-	<name>This rifle can't be sawed off.</name>
+	<name>这把枪不能锯短</name>
 </text>
 
 <text>
 	<id>87</id>
-	<name>This door is completely broken.</name>
+	<name>这扇门坏了</name>
 </text>
 
 <text>
 	<id>88</id>
-	<name>Gas is here! I need a gas mask!</name>
+	<name>有毒气! 我需要防毒面具! </name>
 </text>
 
-<!-- Update 1.3.0 addings -->
+<!--更新 1.3.0 新增-->
 
 <text>
 	<id>89</id>
-	<name>I need a drivable vehicle for this.</name>
+	<name>我需要一辆能开的车</name>
 </text>
 
 <text>
 	<id>90</id>
-	<name>I can't do it from inside of the car.</name>
+	<name>我没法在车里操作</name>
 </text>
 
 <text>
 	<id>91</id>
-	<name>This vehicle already is in a good condition.</name>
+	<name>这辆车还没有修的必要</name>
 </text>
 
 <text>
 	<id>92</id>
-	<name>This vehicle already is fully fueled.</name>
+	<name>这辆车已经加满油了</name>
 </text>
 
-<!-- Quests -->
+<!--任务-->
 
 <text>
 	<id>131</id>
-	<name>I have nothing to say to you.</name>
+	<name>我暂时没什么需要委托你的事</name>
 </text>
 
 <text>
 	<id>132</id>
-	<name>I need a lake or a sea for this.</name>
+	<name>我需要到湖边或者海边</name>
 </text>
 
 <text>
 	<id>133</id>
-	<name>I don't see any fish nearby.</name>
+	<name>我没法在这钓鱼</name>
 </text>
 
 <text>
 	<id>135</id>
-	<name>I am not sick.</name>
+	<name>我没有生病</name>
 </text>
 
 <text>
 	<id>136</id>
-	<name>Thanks again for your help. We are leaving soon.</name>
+	<name>再次感谢你的帮助, 我们马上就要出发了</name>
 </text>
 
 <text>
 	<id>137</id>
-	<name>There is a note with info about some places on the map.</name>
+	<name>这里有个地图标记, 上面有某些地点的信息</name>
 </text>
 
 <text>
 	<id>138</id>
-	<name>Thanks! Your reward is marked on your map.</name>
+	<name>谢谢! 你的报酬已经在地图上标出来了</name>
 </text>
 
 <text>
 	<id>140</id>
-	<name>Gotcha!</name>
+	<name>上钩了!</name>
 </text>
 
 <text>
 	<id>141</id>
-	<name>Damn, slipped away.</name>
+	<name>靠, 被跑掉了</name>
 </text>
+
 <text>
 	<id>142</id>
-	<name>Disassembly completed.</name>
+	<name>拆除完毕</name>
 </text>
 
 <text>
 	<id>143</id>
-	<name>No furniture available to dismantle.</name>
+	<name>没有能拆除的家具</name>
 </text>
 
 <text>
 	<id>144</id>
-	<name>I need to place the vinyl record player.</name>
+	<name>我需要放置好的唱片机</name>
 </text>
 
 <text>
 	<id>145</id>
-	<name>I fried an egg.</name>
+	<name>我煎了一块蛋</name>
 </text>
 
 <text>
 	<id>146</id>
-	<name>I enjoyed a delicious...</name>
+	<name>用餐时间！我享用了美味的</name>
 </text>
 
 <text>
 	<id>147</id>
-	<name>I fried a plate of eggs with tomatoes.</name>
+	<name>烹饪时间！我炒了一碗番茄炒蛋</name>
 </text>
 
 <text>
 	<id>148</id>
-	<name>First aid completed, I am now in great condition.</name>
+	<name>急救完成，我现在状态绝佳</name>
 </text>
 
 <text>
 	<id>149</id>
-	<name>No main weapon or cannot be removed.</name>
+	<name>没有主武器或不能收纳</name>
 </text>
 
 <text>
 	<id>150</id>
-	<name>Ordinary person, possibly a mushroom.</name>
+	<name>一个普通的人</name>
 </text>
 
 <text>
 	<id>151</id>
-	<name>Turned it on yourself, now deal with it, no one forced you to press it)))</name>
+	<name>无效</name>
 </text>
 
 <text>
 	<id>152</id>
-	<name>Now you have infinite slots.</name>
+	<name>启用次元背包</name>
 </text>
 
 <text>
 	<id>153</id>
-	<name>Now everyone can shoot at you without hesitation.</name>
+	<name>启用全民公敌</name>
 </text>
 
 <text>
 	<id>154</id>
-	<name>Your weapon now has infinite durability.</name>
+	<name>启用无限火力</name>
 </text>
 
 <text>
 	<id>155</id>
-	<name>The number of zombies has doubled.</name>
+	<name>启用感染源</name>
 </text>
 
 <text>
 	<id>156</id>
-	<name>Now the whole island is running after you.</name>
+	<name>启用极端环境</name>
 </text>
 
 <text>
 	<id>157</id>
-	<name>Now you are twice as fast.</name>
+	<name>启用奔跑</name>
 </text>
 
 <text>
 	<id>158</id>
-	<name>Now all enemies shoot at you in full-auto mode instead of bursts.</name>
+	<name>启用枪林弹雨</name>
 </text>
 
 <text>
 	<id>159</id>
-	<name>You need to start a fire, prepare 3 eggs and 1 tomato.</name>
+	<name>需要生火、准备生鸡蛋×3，番茄×1</name>
 </text>
 
 <text>
 	<id>160</id>
-	<name>No sewing materials available</name>
+	<name>材料不足</name>
 </text>
 
 <text>
 	<id>161</id>
-	<name>Materials need to be prepared</name>
+	<name>需要准备材料</name>
 </text>
 
 <text>
 	<id>162</id>
-	<name>Materials do not fit</name>
+	<name>材料装不下</name>
 </text>
 
 <text>
 	<id>163</id>
-	<name>Need to light a fire, prepare 2 pieces of meat and 3 green peppers</name>
+	<name>需要生火、准备肉片×2，灯笼椒×3</name>
 </text>
 
 <text>
 	<id>164</id>
-	<name>I cooked a plate of meat with peppers</name>
+	<name>烹饪时间！我炒了一碗青椒炒肉</name>
 </text>
+
 <text>
 	<id>165</id>
-	<name>Now I see at night like an owl</name>
+	<name>启用夜猫子</name>
 </text>
 
 <text>
 	<id>166</id>
-	<name>Doesn't work</name>
+	<name>启用第七街</name>
 </text>
 
 <text>
 	<id>167</id>
-	<name>Enable ruler</name>
+	<name>启用尺</name>
 </text>
 
 <text>
 	<id>168</id>
-	<name>Disable ruler</name>
+	<name>关闭尺</name>
 </text>
 
 <text>
 	<id>169</id>
-	<name>«Turn on the irradiation zone»</name>
+	<name>启用辐射区</name>
 </text>
-
 
 <text>
 	<id>170</id>
-	<name>Turn on Casualness</name>
+	<name>启用休闲</name>
 </text>
 
 <text>
-	<id>611</id>
-	<name>I gained a lot of new knowledge!</name>
+	<id>171</id>
+	<name> </name>
 </text>
+
+<text>
+	<id>172</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>173</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>174</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>175</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>176</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>177</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>178</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>179</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>180</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>181</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>182</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>183</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>184</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>185</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>186</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>187</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>188</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>189</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>190</id>
+	<name> </name>
+</text>
+
+<text>
+	<id>191</id>
+	<name> </name>
+</text>
+
 </list>
