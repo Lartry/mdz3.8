@@ -1276,7 +1276,7 @@
 
 <item>
 	<id>147</id>
-	<name>Undertale-OST</name>
+	<name>Fallen Dawn</name>
 	
 </item>
 
@@ -1463,7 +1463,7 @@
 
 <item>
 	<id>543</id>
-	<name>武器收纳箱[Vector(.45)]</name>
+	<name>武器收纳箱[Vector]</name>
 </item>
 
 <item>
@@ -1711,121 +1711,6 @@
 	<name>《辐射泄漏区》</name>
 </item>
 
-<item>
-	<id>608</id>
-	<name>5.8×42mm弹药</name>
-</item>
-
-<item>
-	<id>609</id>
-	<name>.308弹药盒</name>
-</item>
-
-<item>
-	<id>610</id>
-	<name>5.8×42弹药盒</name>
-</item>
-
-<item>
-	<id>611</id>
-	<name>Terraria-OST</name>
-</item>
-
-<item>
-	<id>612</id>
-	<name>Minecraft-OST</name>
-</item>
-
-<item>
-	<id>613</id>
-	<name>武器收纳箱[M249]</name>
-</item>
-
-<item>
-	<id>614</id>
-	<name>武器收纳箱[PKM]</name>
-</item>
-
-<item>
-	<id>615</id>
-	<name>武器收纳箱[DP-12]</name>
-</item>
-
-<item>
-	<id>616</id>
-	<name>武器收纳箱[三管枪]</name>
-</item>
-
-<item>
-	<id>617</id>
-	<name>武器收纳箱[M70]</name>
-</item>
-
-<item>
-	<id>618</id>
-	<name>武器收纳箱[Blaze]</name>
-</item>
-
-<item>
-	<id>619</id>
-	<name>武器收纳箱[G3]</name>
-</item>
-
-<item>
-	<id>620</id>
-	<name>武器收纳箱[Mini14]</name>
-</item>
-
-<item>
-	<id>621</id>
-	<name>武器收纳箱[QBZ-95]</name>
-</item>
-
-<item>
-	<id>622</id>
-	<name>武器收纳箱[QBZ-191]</name>
-</item>
-
-<item>
-	<id>623</id>
-	<name>武器收纳箱[QBZ-191]</name>
-</item>
-
-<item>
-	<id>624</id>
-	<name>武器收纳箱[Vector(9mm)]</name>
-</item>
-
-<item>
-	<id>625</id>
-	<name>武器收纳箱[Type81]</name>
-</item>
-
-<item>
-	<id>626</id>
-	<name>武器收纳箱[Type81]</name>
-</item>
-
-<item>
-	<id>627</id>
-	<name>武器收纳箱[Famas]</name>
-</item>
-
-<item>
-	<id>628</id>
-	<name>武器收纳箱[AEK971]</name>
-</item>
-
-<item>
-	<id>629</id>
-	<name>武器收纳箱[DVL-10]</name>
-</item>
-
-<item>
-	<id>630</id>
-	<name>蛋糕</name>
-</item>
-
 <!--更新 1.5.0 道具和武器-->
 
 <item>
@@ -1865,7 +1750,7 @@
 
 <item>
 	<id>192</id>
-	<name>Vector(.45)</name>
+	<name>Vector</name>
 </item>
 
 <item>
@@ -1909,76 +1794,6 @@
 </item>
 
 <item>
-	<id>226</id>
-	<name>Mini14</name>
-</item>
-
-<item>
-	<id>227</id>
-	<name>QBZ-95</name>
-</item>
-
-<item>
-	<id>228</id>
-	<name>QBZ-191</name>
-</item>
-
-<item>
-	<id>229</id>
-	<name>QBZ-191</name>
-</item>
-
-<item>
-	<id>230</id>
-	<name>Vector(9mm)</name>
-</item>
-
-<item>
-	<id>231</id>
-	<name>Type81</name>
-</item>
-
-<item>
-	<id>232</id>
-	<name>Type81</name>
-</item>
-
-<item>
-	<id>233</id>
-	<name>Famas</name>
-</item>
-
-<item>
-	<id>234</id>
-	<name>AEK971</name>
-</item>
-
-<item>
-	<id>235</id>
-	<name>虔诚</name>
-</item>
-
-<item>
-	<id>236</id>
-	<name>DVL-10</name>
-</item>
-
-<item>
-	<id>237</id>
-	<name>锯短的Blaze</name>
-</item>
-
-<item>
-	<id>238</id>
-	<name>长角</name>
-</item>
-
-<item>
-	<id>239</id>
-	<name>APS</name>
-</item>
-
-<item>
 	<id>211</id>
 	<name>武士刀</name>
 </item>
@@ -1996,3 +1811,6 @@
 <item>
 	<id>269</id>
 	<name>夜视仪头盔</name>
+</item>
+
+</list>
