@@ -1,4 +1,4 @@
-﻿{
+{
 	"version": 1644057359,
 	"fileList": [
 		"data.js",
@@ -1826,5 +1826,8 @@
 		"l_ru_new.xml",
 		"l_pt_new.xml",
 		"l_es_new.xml"
+		"l_zh_items.xml",
+		"l_zh_ui.xml",
+		"l_zh_log.xml"
 	]
 }

@@ -1,0 +1,697 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--角色反馈-->
+
+<text>
+	<id>1</id>
+	<name>我不再流血了</name>
+</text>
+
+<text>
+	<id>2</id>
+	<name>我感觉很健康</name>
+</text>
+
+<text>
+	<id>3</id>
+	<name>我可以感觉到正在流血</name>
+</text>
+
+<text>
+	<id>4</id>
+	<name>我感觉很冷</name>
+</text>
+
+<text>
+	<id>5</id>
+	<name>我快饿死了</name>
+</text>
+
+<text>
+	<id>6</id>
+	<name>我快渴死了</name>
+</text>
+
+<text>
+	<id>7</id>
+	<name>我在这个后备箱里找到了一些东西</name>
+</text>
+
+<text>
+	<id>8</id>
+	<name>这个后备箱是空的</name>
+</text>
+
+<!--当没有弹药时的角色反馈-->
+<text>
+	<id>9</id>
+	<name>没有弹药了</name>
+</text>
+<!--当远程武器弹药耗尽时的角色反馈-->
+<text>
+	<id>10</id>
+	<name>弹匣空了</name>
+</text>
+
+<text>
+	<id>11</id>
+	<name>武器坏了! </name>
+</text>
+
+<text>
+	<id>12</id>
+	<name>这个水泵里没有水了</name>
+</text>
+
+<text>
+	<id>13</id>
+	<name>我还不渴</name>
+</text>
+
+<text>
+	<id>14</id>
+	<name>我吃掉了一块生肉</name>
+</text>
+
+<text>
+	<id>15</id>
+	<name>我需要水泵来装水</name>
+</text>
+
+<text>
+	<id>16</id>
+	<name>我已经用水泵装满了水</name>
+</text>
+
+<text>
+	<id>17</id>
+	<name>我吃掉了</name>
+</text>
+
+<text>
+	<id>18</id>
+	<name>我喝掉了</name>
+</text>
+
+<text>
+	<id>19</id>
+	<name>我用掉了</name>
+</text>
+
+<text>
+	<id>32</id>
+	<name>武器已装满弹药</name>
+</text>
+
+<text>
+	<id>33</id>
+	<name>弹药已装填</name>
+</text>
+
+<!--尝试装载错误的弹药或配件时的角色反馈-->
+<text>
+	<id>34</id>
+	<name>不适配这把武器</name>
+</text>
+
+<text>
+	<id>35</id>
+	<name>我用掉了绷带</name>
+</text>
+
+<text>
+	<id>36</id>
+	<name>我已经止血了</name>
+</text>
+
+<text>
+	<id>37</id>
+	<name>输血完成</name>
+</text>
+
+<!--尝试给夜视仪/头灯装电池时的角色反馈-->
+<text>
+	<id>38</id>
+	<name>电池已安装</name>
+</text>
+
+<text>
+	<id>39</id>
+	<name>我需要一个夜视仪或者头灯</name>
+</text>
+
+<text>
+	<id>40</id>
+	<name>我需要放置好的营火套件</name>
+</text>
+
+<text>
+	<id>41</id>
+	<name>我喝掉了威士忌</name>
+</text>
+
+<text>
+	<id>42</id>
+	<name>生理盐水输液完成</name>
+</text>
+
+<text>
+	<id>43</id>
+	<name>我服用了维生素</name>
+</text>
+
+<text>
+	<id>44</id>
+	<name>武器已损坏</name>
+</text>
+
+<text>
+	<id>45</id>
+	<name>武器清洁完成</name>
+</text>
+
+<text>
+	<id>46</id>
+	<name>我服用了四环素</name>
+</text>
+
+<text>
+	<id>47</id>
+	<name>车已经加满油了</name>
+</text>
+
+<text>
+	<id>48</id>
+	<name>我需要一辆能开的车</name>
+</text>
+
+<text>
+	<id>49</id>
+	<name>水瓶空了</name>
+</text>
+
+<text>
+	<id>50</id>
+	<name>我喝了水瓶里的水</name>
+</text>
+
+<text>
+	<id>51</id>
+	<name>水壶空了</name>
+</text>
+
+<text>
+	<id>52</id>
+	<name>我喝了水壶里的水</name>
+</text>
+
+<text>
+	<id>53</id>
+	<name>已部署地雷</name>
+</text>
+
+<text>
+	<id>54</id>
+	<name>已部署捕兽夹</name>
+</text>
+
+<text>
+	<id>55</id>
+	<name>车已经修好了</name>
+</text>
+
+<text>
+	<id>56</id>
+	<name>我烤了一块肉</name>
+</text>
+
+<text>
+	<id>57</id>
+	<name>我需要生火</name>
+</text>
+
+<text>
+	<id>58</id>
+	<name>我吃了烤肉</name>
+</text>
+
+<text>
+	<id>59</id>
+	<name>我喝了核子可乐, 感觉很赞! </name>
+</text>
+
+<text>
+	<id>60</id>
+	<name>剥皮完成</name>
+</text>
+
+<text>
+	<id>61</id>
+	<name>没有能剥皮的猎物</name>
+</text>
+
+<text>
+	<id>62</id>
+	<name>没有空间了</name>
+</text>
+
+<text>
+	<id>63</id>
+	<name>刀坏了</name>
+</text>
+
+<text>
+	<id>64</id>
+	<name>我需要更多木棍</name>
+</text>
+
+<text>
+	<id>65</id>
+	<name>头灯坏了</name>
+</text>
+
+<text>
+	<id>66</id>
+	<name>夜视仪坏了</name>
+</text>
+
+<text>
+	<id>67</id>
+	<name>我喝掉了淡啤酒</name>
+</text>
+
+<text>
+	<id>68</id>
+	<name>需要铁镐、干草叉或铲子</name>
+</text>
+
+<text>
+	<id>69</id>
+	<name>不能在这里种植</name>
+</text>
+
+<text>
+	<id>70</id>
+	<name>已种植</name>
+</text>
+
+<text>
+	<id>71</id>
+	<name>块</name>
+</text>
+
+<text>
+	<id>72</id>
+	<name>我需要一把刀来剥皮</name>
+</text>
+
+<!--但你尝试切枪但没有武器时-->
+<text>
+	<id>73</id>
+	<name>我没有远程武器</name>
+</text>
+
+<text>
+	<id>74</id>
+	<name>点击扔出信号弹</name>
+</text>
+
+<text>
+	<id>75</id>
+	<name>点击扔出</name>
+</text>
+
+<text>
+	<id>76</id>
+	<name>已装满</name>
+</text>
+
+<text>
+	<id>77</id>
+	<name>我喝了水泵里的水</name>
+</text>
+
+<text>
+	<id>78</id>
+	<name>我想吃点东西</name>
+</text>
+
+<text>
+	<id>79</id>
+	<name>我想喝点东西</name>
+</text>
+
+<text>
+	<id>80</id>
+	<name>我真的很冷</name>
+</text>
+
+<text>
+	<id>81</id>
+	<name>我要冻死了</name>
+</text>
+
+<text>
+	<id>82</id>
+	<name>我感觉暖和起来了</name>
+</text>
+
+<text>
+	<id>83</id>
+	<name>我需要电池</name>
+</text>
+
+<text>
+	<id>84</id>
+	<name>看起来附近没有遭遇事故的军用载具</name>
+</text>
+
+<text>
+	<id>85</id>
+	<name>附近好像有一个遭遇事故的军用载具</name>
+</text>
+
+<!--生命低于50%时的友好幸存者反馈-->
+<text>
+	<id>100</id>
+	<name>妈的, 我伤的很重</name>
+</text>
+
+<!--当角色进入建筑时开始放哨的友好幸存者反馈-->
+<text>
+	<id>101</id>
+	<name>好的, 我帮你放哨</name>
+</text>
+
+<text>
+	<id>102</id>
+	<name>你搜寻物资的时候我会掩护你</name>
+</text>
+
+<!--当角色进入火力范围时的友好幸存者反馈-->
+<text>
+	<id>103</id>
+	<name>你挡住我瞄准了! </name>
+</text>
+
+<!--生命高于50%时的友好幸存者反馈-->
+<text>
+	<id>104</id>
+	<name>嘿! 一起走吧! </name>
+</text>
+
+<!--被子弹击中的敌对近战幸存者反馈-->
+<text>
+	<id>105</id>
+	<name>这不公平! </name>
+</text>
+
+<text>
+	<id>106</id>
+	<name>妈的, 他有枪! </name>
+</text>
+
+<text>
+	<id>107</id>
+	<name>操! </name>
+</text>
+
+<!--发现角色的敌对持枪幸存者反馈-->
+<text>
+	<id>108</id>
+	<name>来啊! </name>
+</text>
+
+<text>
+	<id>109</id>
+	<name>吃枪子吧! </name>
+</text>
+
+<text>
+	<id>110</id>
+	<name>我看到你了! </name>
+</text>
+
+<text>
+	<id>111</id>
+	<name>到这里来！</name>
+</text>
+
+<text>
+	<id>112</id>
+	<name>他在这！</name>
+</text>
+
+
+
+<!--幸存者反馈-->
+
+<text>
+	<id>125</id>
+	<name>我没有恶意</name>
+</text>
+
+<text>
+	<id>126</id>
+	<name>好的</name>
+</text>
+
+<text>
+	<id>127</id>
+	<name>感谢你帮忙修船</name>
+</text>
+
+<!--更新 1.2.0 新增-->
+
+<text>
+	<id>86</id>
+	<name>这把枪不能锯短</name>
+</text>
+
+<text>
+	<id>87</id>
+	<name>这扇门坏了</name>
+</text>
+
+<text>
+	<id>88</id>
+	<name>有毒气! 我需要防毒面具! </name>
+</text>
+
+<!--更新 1.3.0 新增-->
+
+<text>
+	<id>89</id>
+	<name>我需要一辆能开的车</name>
+</text>
+
+<text>
+	<id>90</id>
+	<name>我没法在车里操作</name>
+</text>
+
+<text>
+	<id>91</id>
+	<name>这辆车还没有修的必要</name>
+</text>
+
+<text>
+	<id>92</id>
+	<name>这辆车已经加满油了</name>
+</text>
+
+<!--任务-->
+
+<text>
+	<id>131</id>
+	<name>我暂时没什么需要委托你的事</name>
+</text>
+
+<text>
+	<id>132</id>
+	<name>我需要到湖边或者海边</name>
+</text>
+
+<text>
+	<id>133</id>
+	<name>我没法在这钓鱼</name>
+</text>
+
+<text>
+	<id>135</id>
+	<name>我没有生病</name>
+</text>
+
+<text>
+	<id>136</id>
+	<name>再次感谢你的帮助, 我们马上就要出发了</name>
+</text>
+
+<text>
+	<id>137</id>
+	<name>这里有个地图标记, 上面有某些地点的信息</name>
+</text>
+
+<text>
+	<id>138</id>
+	<name>谢谢! 你的报酬已经在地图上标出来了</name>
+</text>
+
+<text>
+	<id>140</id>
+	<name>上钩了!</name>
+</text>
+
+<text>
+	<id>141</id>
+	<name>靠, 被跑掉了</name>
+</text>
+
+<text>
+	<id>142</id>
+	<name>拆除完毕</name>
+</text>
+
+<text>
+	<id>143</id>
+	<name>没有能拆除的家具</name>
+</text>
+
+<text>
+	<id>144</id>
+	<name>我需要放置好的唱片机</name>
+</text>
+
+<text>
+	<id>145</id>
+	<name>我煎了一块蛋</name>
+</text>
+
+<text>
+	<id>146</id>
+	<name>用餐时间！我享用了美味的</name>
+</text>
+
+<text>
+	<id>147</id>
+	<name>烹饪时间！我炒了一碗番茄炒蛋</name>
+</text>
+
+<text>
+	<id>148</id>
+	<name>急救完成，我现在状态绝佳</name>
+</text>
+
+<text>
+	<id>149</id>
+	<name>没有主武器或不能收纳</name>
+</text>
+
+<text>
+	<id>150</id>
+	<name>一个普通的人</name>
+</text>
+
+<text>
+	<id>151</id>
+	<name>无效</name>
+</text>
+
+<text>
+	<id>152</id>
+	<name>启用次元背包</name>
+</text>
+
+<text>
+	<id>153</id>
+	<name>启用全民公敌</name>
+</text>
+
+<text>
+	<id>154</id>
+	<name>启用无限火力</name>
+</text>
+
+<text>
+	<id>155</id>
+	<name>启用感染源</name>
+</text>
+
+<text>
+	<id>156</id>
+	<name>启用极端环境</name>
+</text>
+
+<text>
+	<id>157</id>
+	<name>启用奔跑</name>
+</text>
+
+<text>
+	<id>158</id>
+	<name>启用枪林弹雨</name>
+</text>
+
+<text>
+	<id>159</id>
+	<name>需要生火、准备生鸡蛋×3，番茄×1</name>
+</text>
+
+<text>
+	<id>160</id>
+	<name>材料不足</name>
+</text>
+
+<text>
+	<id>161</id>
+	<name>需要准备材料</name>
+</text>
+
+<text>
+	<id>162</id>
+	<name>材料装不下</name>
+</text>
+
+<text>
+	<id>163</id>
+	<name>需要生火、准备肉片×2，灯笼椒×3</name>
+</text>
+
+<text>
+	<id>164</id>
+	<name>烹饪时间！我炒了一碗青椒炒肉</name>
+</text>
+
+<text>
+	<id>165</id>
+	<name>启用夜猫子</name>
+</text>
+
+<text>
+	<id>166</id>
+	<name>启用第七街</name>
+</text>
+
+<text>
+	<id>167</id>
+	<name>启用尺</name>
+</text>
+
+<text>
+	<id>168</id>
+	<name>关闭尺</name>
+</text>
+
+<text>
+	<id>169</id>
+	<name>启用辐射区</name>
+</text>
+
+<text>
+	<id>170</id>
+	<name>启用休闲</name>
+</text>
+
+</list>
