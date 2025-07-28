@@ -21,6 +21,12 @@ cordova.define("cordova-plugin-inappbrowser.inappbrowser", function(require, exp
 */
 
 (function () {
+    // special patch to correctly work on Ripple emulator (CB-9760)
+    if (window.parent && !!window.parent.ripple) { // https://gist.github.com/triceam/4658021
+        module.exports = window.open.bind(window); // fallback to default window.open behaviour
+        return;
+    }
+
     var exec = require('cordova/exec');
     var channel = require('cordova/channel');
     var modulemapper = require('cordova/modulemapper');
@@ -28,29 +34,19 @@ cordova.define("cordova-plugin-inappbrowser.inappbrowser", function(require, exp
 
     function InAppBrowser () {
         this.channels = {
-            'beforeload': channel.create('beforeload'),
             'loadstart': channel.create('loadstart'),
             'loadstop': channel.create('loadstop'),
             'loaderror': channel.create('loaderror'),
             'exit': channel.create('exit'),
-            'customscheme': channel.create('customscheme'),
-            'message': channel.create('message')
+            'customscheme': channel.create('customscheme')
         };
     }
 
     InAppBrowser.prototype = {
         _eventHandler: function (event) {
             if (event && (event.type in this.channels)) {
-                if (event.type === 'beforeload') {
-                    this.channels[event.type].fire(event, this._loadAfterBeforeload);
-                } else {
-                    this.channels[event.type].fire(event);
-                }
+                this.channels[event.type].fire(event);
             }
-        },
-        _loadAfterBeforeload: function (strUrl) {
-            strUrl = urlutil.makeAbsolute(strUrl);
-            exec(null, null, 'InAppBrowser', 'loadAfterBeforeload', [strUrl]);
         },
         close: function (eventname) {
             exec(null, null, 'InAppBrowser', 'close', []);
